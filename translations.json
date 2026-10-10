@@ -85,5 +85,7 @@
  "Computers Cannot Make Decisions": "计算机无法做出决策",
  "I tried to move my notes out of Emacs. I failed. Again": "我试着把笔记从 Emacs 里导出来，但没成功。又失败了。",
  "Food processing influences metabolism and brain activity": "食品加工会影响新陈代谢和大脑活动",
- "Cube Type – Isometric Typography Generator": "立方体风格——等角排版生成器"
+ "Cube Type – Isometric Typography Generator": "立方体风格——等角排版生成器",
+ "WSL3 Performance is about 5-60% faster than WSL2 depending on the workload": "根据工作负载的不同，WSL3 的性能比 WSL2 快约 5% 至 60%",
+ "`123456' password used in Danish CPR data breach": "丹麦CPR数据泄露事件中使用了“123456”这一密码"
 }
