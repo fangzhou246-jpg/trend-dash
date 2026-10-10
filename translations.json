@@ -67,5 +67,6 @@
  "[Public preview] Externally scored agentic ML research benchmark: 60 tasks, real competition ground truth. Open protocol, operated evaluation.": "[公开预览] 外部评分型自主机器学习研究基准：60个任务，真实竞赛的 ground truth。开放协议，运营式评估。",
  "Calibrated 151M Non-Autoregressive Decision Engine beating TypeSafe Jev & Laya on LocalLLaMA/typed-decisions (77.10% acc, 0.0636 Brier, 0.0144 ECE)": "经过调优的 151M 非自回归决策引擎在 LocalLLaMA/typed-decisions 数据集上超越了 TypeSafe Jev & Laya（准确率 77.10%，布里尔系数 0.0636，误分类率 0.0144）",
  "JevBench by Benchmark Heaven: benchmark and leaderboard for AI decision models, measuring typed decision accuracy, calibration, latency and cost.": "Benchmark Heaven 推出的 JevBench：一款针对 AI 决策模型的基准测试和排行榜工具，用于衡量决策类型准确率、校准、延迟和成本。",
- "Free interactive course on world models in AI. Nine visual chapters on prediction, latent dynamics, planning, JEPA, video models, and failure modes.": "关于人工智能中世界模型的免费互动课程。共九个图文并茂的章节，内容涵盖预测、潜在动力学、规划、JEPA、视频模型以及故障模式。"
+ "Free interactive course on world models in AI. Nine visual chapters on prediction, latent dynamics, planning, JEPA, video models, and failure modes.": "关于人工智能中世界模型的免费互动课程。共九个图文并茂的章节，内容涵盖预测、潜在动力学、规划、JEPA、视频模型以及故障模式。",
+ "Smart contracts: Ship the parachute in v1": "智能合约：在 v1 版本中发布“降落伞”功能"
 }
