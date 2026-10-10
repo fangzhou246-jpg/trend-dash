@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>热点聚合 · 每小时更新</title>
+<style>
+  :root { --bg:#f6f7f9; --card:#fff; --text:#1a1a1a; --muted:#888; --accent:#2563eb; --border:#e8e8e8; }
+  @media (prefers-color-scheme: dark) {
+    :root { --bg:#111214; --card:#1c1e21; --text:#e8e8e8; --muted:#999; --accent:#5b9bff; --border:#2c2e33; }
+  }
+  * { box-sizing:border-box; margin:0; padding:0; }
+  body { font-family:-apple-system,"PingFang SC","Microsoft YaHei",sans-serif; background:var(--bg); color:var(--text); }
+  header { position:sticky; top:0; background:var(--card); border-bottom:1px solid var(--border); z-index:10; }
+  .wrap { max-width:860px; margin:0 auto; padding:0 16px; }
+  h1 { font-size:20px; padding:16px 0 4px; }
+  .updated { font-size:12px; color:var(--muted); padding-bottom:10px; }
+  nav { display:flex; gap:4px; padding-bottom:10px; overflow-x:auto; }
+  nav button { flex:1; white-space:nowrap; border:1px solid var(--border); background:var(--bg); color:var(--text);
+    border-radius:20px; padding:8px 14px; font-size:14px; cursor:pointer; }
+  nav button.active { background:var(--accent); color:#fff; border-color:var(--accent); }
+  main { padding:12px 0 40px; }
+  .group-title { font-size:13px; color:var(--muted); margin:18px 0 8px; padding-left:4px; }
+  .card { background:var(--card); border:1px solid var(--border); border-radius:12px; padding:12px 14px; margin-bottom:8px; }
+  .card a { color:var(--text); text-decoration:none; font-size:15px; font-weight:600; line-height:1.5; }
+  .card a:hover { color:var(--accent); }
+  .rank { display:inline-block; min-width:24px; height:24px; line-height:24px; text-align:center; font-size:13px;
+    font-weight:700; color:#fff; background:#c0c4cc; border-radius:6px; margin-right:8px; }
+  .rank.r1 { background:#f56c6c; } .rank.r2 { background:#e6a23c; } .rank.r3 { background:#67c23a; }
+  .meta { font-size:12px; color:var(--muted); margin-top:6px; line-height:1.6; }
+  .desc { font-size:13px; color:var(--muted); margin-top:4px; line-height:1.5; }
+  .tag { display:inline-block; font-size:11px; background:var(--bg); border:1px solid var(--border);
+    border-radius:4px; padding:1px 6px; margin-right:6px; color:var(--muted); }
+  .empty { text-align:center; color:var(--muted); padding:40px 0; font-size:14px; }
+  footer { text-align:center; font-size:12px; color:var(--muted); padding:20px; }
+  .hidden { display:none; }
+</style>
+</head>
+<body>
+<header><div class="wrap">
+  <h1>🔥 热点聚合</h1>
+  <div class="updated" id="updated">加载中…</div>
+  <nav>
+    <button data-tab="github" class="active">💻 GitHub 周榜</button>
+    <button data-tab="world">🌍 全球热点</button>
+    <button data-tab="china">🇨🇳 国内热点</button>
+    <button data-tab="ai">🤖 AI 行业</button>
+  </nav>
+</div></header>
+<main><div class="wrap" id="content"></div></main>
+<footer>每小时自动更新 · 数据来源：GitHub / Hacker News / 百度 / 今日头条 / 抖音 / arXiv / HuggingFace</footer>
+
+<script>
+const TAB_TITLES = { github:'GitHub 周榜', world:'全球热点', china:'国内热点', ai:'AI 行业' };
+let DATA = null;
+
+function rankBadge(i){ return `<span class="rank${i<3?' r'+(i+1):''}">${i+1}</span>`; }
+function esc(s){ return String(s??'').replace(/&/g,'&amp;').replace(/</g,'&lt;'); }
+
+function renderGithub(items){
+  if(!items.length) return empty();
+  return items.map((it,i)=>`
+    <div class="card">${rankBadge(i)}<a href="${it.url}" target="_blank" rel="noopener">${esc(it.name)}</a>
+    ${it.desc?`<div class="desc">${esc(it.desc)}</div>`:''}
+    <div class="meta">${it.lang?`<span class="tag">${esc(it.lang)}</span>`:''}⭐ ${esc(it.stars)}${it.gain?` · <b style="color:#f56c6c">${esc(it.gain)} 本周</b>`:''}</div></div>`).join('');
+}
+function renderWorld(items){
+  if(!items.length) return empty();
+  return items.map((it,i)=>`
+    <div class="card">${rankBadge(i)}<a href="${it.url}" target="_blank" rel="noopener">${esc(it.title)}</a>
+    <div class="meta"><span class="tag">${esc(it.site||it.source)}</span>👍 ${it.points} 分</div></div>`).join('');
+}
+function renderGrouped(items){
+  if(!items.length) return empty();
+  const groups = {};
+  items.forEach(it=>{ (groups[it.source] ||= []).push(it); });
+  return Object.entries(groups).map(([src,list])=>`
+    <div class="group-title">—— ${esc(src)} ——</div>` +
+    list.map((it,i)=>`
+    <div class="card">${rankBadge(i)}<a href="${it.url}" target="_blank" rel="noopener">${esc(it.title)}</a>
+    ${it.meta?`<div class="meta">${esc(it.meta)}</div>`:''}${it.hot?`<div class="meta">🔥 热度 ${esc(it.hot)}</div>`:''}</div>`).join('')
+  ).join('');
+}
+function empty(){ return `<div class="empty">本次抓取暂无数据，稍后再来<br>（部分平台可能被反爬限制）</div>`; }
+
+function render(tab){
+  const c = document.getElementById('content');
+  if(!DATA){ c.innerHTML = empty(); return; }
+  document.getElementById('updated').textContent = '更新时间：' + DATA.updated_at + ' · 每小时自动刷新';
+  if(tab==='github') c.innerHTML = renderGithub(DATA.github||[]);
+  else if(tab==='world') c.innerHTML = renderWorld(DATA.world||[]);
+  else c.innerHTML = renderGrouped(DATA[tab]||[]);
+}
+
+document.querySelectorAll('nav button').forEach(b=>{
+  b.addEventListener('click', ()=>{
+    document.querySelectorAll('nav button').forEach(x=>x.classList.remove('active'));
+    b.classList.add('active');
+    render(b.dataset.tab);
+  });
+});
+
+fetch('data.json').then(r=>r.json()).then(d=>{ DATA=d; render('github'); })
+  .catch(()=>{ document.getElementById('updated').textContent='数据加载失败'; render('github'); });
+</script>
+</body>
+</html>

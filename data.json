@@ -1,0 +1,945 @@
+{
+ "updated_at": "2026-10-10 07:47（北京时间）",
+ "github": [
+  {
+   "name": "boykopovar/AnyPS5",
+   "url": "https://github.com/boykopovar/AnyPS5",
+   "desc": "Tool for automatic PS5 executables porting to Linux and Windows",
+   "lang": "C++",
+   "stars": "22184",
+   "gain": "+10,243"
+  },
+  {
+   "name": "mvschwarz/openrig",
+   "url": "https://github.com/mvschwarz/openrig",
+   "desc": "Build your own network of agents from Claude Code, Codex and Pi: persistent teams with roles, shared context and owned work.",
+   "lang": "TypeScript",
+   "stars": "6438",
+   "gain": "+2,693"
+  },
+  {
+   "name": "mattpocock/skills",
+   "url": "https://github.com/mattpocock/skills",
+   "desc": "Skills for Real Engineers. Straight from my .agents directory.",
+   "lang": "Shell",
+   "stars": "282638",
+   "gain": "+7,448"
+  },
+  {
+   "name": "heygen-com/hyperframes",
+   "url": "https://github.com/heygen-com/hyperframes",
+   "desc": "Write HTML. Render video. Built for agents.",
+   "lang": "TypeScript",
+   "stars": "59772",
+   "gain": "+3,996"
+  },
+  {
+   "name": "cursor/plugins",
+   "url": "https://github.com/cursor/plugins",
+   "desc": "Cursor plugin specification and official plugins",
+   "lang": "TypeScript",
+   "stars": "10577",
+   "gain": "+1,109"
+  },
+  {
+   "name": "EpicGames/raddebugger",
+   "url": "https://github.com/EpicGames/raddebugger",
+   "desc": "A native, user-mode, multi-process, graphical debugger.",
+   "lang": "C",
+   "stars": "8261",
+   "gain": "+448"
+  },
+  {
+   "name": "thedotmack/claude-mem",
+   "url": "https://github.com/thedotmack/claude-mem",
+   "desc": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
+   "lang": "TypeScript",
+   "stars": "98977",
+   "gain": "+3,153"
+  },
+  {
+   "name": "earthtojake/text-to-cad",
+   "url": "https://github.com/earthtojake/text-to-cad",
+   "desc": "Give your agent CAD superpowers.",
+   "lang": "Python",
+   "stars": "18743",
+   "gain": "+1,898"
+  },
+  {
+   "name": "pingdotgg/t3code",
+   "url": "https://github.com/pingdotgg/t3code",
+   "desc": "",
+   "lang": "TypeScript",
+   "stars": "26619",
+   "gain": "+2,317"
+  },
+  {
+   "name": "Panniantong/Agent-Reach",
+   "url": "https://github.com/Panniantong/Agent-Reach",
+   "desc": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+   "lang": "Python",
+   "stars": "94871",
+   "gain": "+6,987"
+  },
+  {
+   "name": "DuarteSantos8/openGym",
+   "url": "https://github.com/DuarteSantos8/openGym",
+   "desc": "Self-hosted gym & body-weight tracker — plan routines, log workouts (supersets, warm-ups, cardio), see which muscles are trained, fatigued or detrained, import from FitNotes/Strong/Hevy, passkey login. Your data, your server.",
+   "lang": "JavaScript",
+   "stars": "8649",
+   "gain": "+6,086"
+  }
+ ],
+ "world": [
+  {
+   "title": "Cloudflare acquires Deno",
+   "url": "https://deno.com/blog/cloudflare",
+   "site": "deno.com",
+   "points": 1013,
+   "source": "Hacker News"
+  },
+  {
+   "title": "Triple-A Minesweeper",
+   "url": "https://minesweeper.mikelacher.com/",
+   "site": "minesweeper.mikelacher.com",
+   "points": 516,
+   "source": "Hacker News"
+  },
+  {
+   "title": "Show HN: Carrier-Explode: iPhone, Pixel and Galaxy carrier settings decoded",
+   "url": "https://carrierexplode.com/",
+   "site": "carrierexplode.com",
+   "points": 181,
+   "source": "Hacker News"
+  },
+  {
+   "title": "Our $445M Series D",
+   "url": "https://oxide.computer/blog/our-445m-series-d",
+   "site": "oxide.computer",
+   "points": 561,
+   "source": "Hacker News"
+  },
+  {
+   "title": "YouTuber Says Cops Visited Him After He Built a Flock-Style Camera to Track Cops",
+   "url": "https://gizmodo.com/youtuber-says-cops-paid-him-a-visit-after-he-built-flock-style-camera-to-track-cops-2000824306",
+   "site": "gizmodo.com",
+   "points": 336,
+   "source": "Hacker News"
+  },
+  {
+   "title": "Sorry, I'm in a meeting",
+   "url": "https://iminafleeting.com/",
+   "site": "iminafleeting.com",
+   "points": 721,
+   "source": "Hacker News"
+  },
+  {
+   "title": "Typesafe AI raises $870M at $7.5B",
+   "url": "https://typesafe.ai/blog/series-ai",
+   "site": "typesafe.ai",
+   "points": 232,
+   "source": "Hacker News"
+  },
+  {
+   "title": "Pointing AI at archives found a forgotten meteorite, lost rhinos, and more",
+   "url": "https://jessewaites.com/blog/post/i-pointed-ai-at-400-years-of-archives/",
+   "site": "jessewaites.com",
+   "points": 93,
+   "source": "Hacker News"
+  },
+  {
+   "title": "Japan's Most Famous Tuna Buyer Says He Turned Somali Pirates into Fishermen",
+   "url": "https://www.japaninsides.com/the-sushi-king-who-went-to-somalia-how-japans-most-famous-tuna-buyer-says-he-turned-pirates-into-fishermen-55344",
+   "site": "japaninsides.com",
+   "points": 19,
+   "source": "Hacker News"
+  },
+  {
+   "title": "Show HN: Let your AI agents paint big arrows, boxes and text on your screen",
+   "url": "https://github.com/franzenzenhofer/big-arrow-on-the-screen",
+   "site": "github.com",
+   "points": 363,
+   "source": "Hacker News"
+  },
+  {
+   "title": "Nobel Peace Prize for 2026 to Navanethem Pillay",
+   "url": "https://www.nobelprize.org/prizes/peace/2026/press-release/",
+   "site": "nobelprize.org",
+   "points": 428,
+   "source": "Hacker News"
+  },
+  {
+   "title": "Show HN: Proton Drive for Linux",
+   "url": "https://oss.lsantos.dev/proton-drive-linux-fs/",
+   "site": "oss.lsantos.dev",
+   "points": 24,
+   "source": "Hacker News"
+  },
+  {
+   "title": "No Man Is an Island",
+   "url": "https://borretti.me/article/no-man-is-an-island",
+   "site": "borretti.me",
+   "points": 245,
+   "source": "Hacker News"
+  },
+  {
+   "title": "'Wallace and Gromit,' 90% Alone",
+   "url": "https://animationobsessive.substack.com/p/wallace-and-gromit-90-alone",
+   "site": "animationobsessive.substack.com",
+   "points": 143,
+   "source": "Hacker News"
+  },
+  {
+   "title": "Show HN: The rarest tech books and docs you've probably never read",
+   "url": "https://readrare.com/",
+   "site": "readrare.com",
+   "points": 55,
+   "source": "Hacker News"
+  },
+  {
+   "title": "M7.6 Earthquake in Panama",
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u18k/executive",
+   "site": "earthquake.usgs.gov",
+   "points": 117,
+   "source": "Hacker News"
+  },
+  {
+   "title": "Microsoft-Decision-1, our model for fast decision-making",
+   "url": "https://commandline.microsoft.com/microsoft-decision-1-model-foundry/",
+   "site": "commandline.microsoft.com",
+   "points": 123,
+   "source": "Hacker News"
+  },
+  {
+   "title": "Ideas aren't getting harder to find (2022)",
+   "url": "https://www.experimental-history.com/p/ideas-arent-getting-harder-to-find",
+   "site": "experimental-history.com",
+   "points": 113,
+   "source": "Hacker News"
+  },
+  {
+   "title": "How to Fix autoconf-style Configuration Probing",
+   "url": "https://build2.org/blog/fix-autoconf.xhtml",
+   "site": "build2.org",
+   "points": 6,
+   "source": "Hacker News"
+  },
+  {
+   "title": "OpenAI mistranslated mathematics into code for its Navier-Stokes proof",
+   "url": "https://www.newscientist.com/article/2592824-openai-mistranslated-mathematics-into-code-for-its-navier-stokes-proof/",
+   "site": "newscientist.com",
+   "points": 26,
+   "source": "Hacker News"
+  },
+  {
+   "title": "A statement on the Tor Project's relationship with Mullvad",
+   "url": "https://blog.torproject.org/on-tor-relationship-with-mullvad/",
+   "site": "blog.torproject.org",
+   "points": 102,
+   "source": "Hacker News"
+  },
+  {
+   "title": "Germany transforms former coal mines into Europe's largest lake landscape",
+   "url": "https://www.euronews.com/2026/04/14/almost-like-lake-como-germany-transforms-former-coal-mines-into-europes-largest-lake-lands",
+   "site": "euronews.com",
+   "points": 174,
+   "source": "Hacker News"
+  },
+  {
+   "title": "Training Text-to-Image Models Without a VAE",
+   "url": "https://www.linum.ai/field-notes/pyramid-jit",
+   "site": "linum.ai",
+   "points": 45,
+   "source": "Hacker News"
+  },
+  {
+   "title": "Keyboard differences between Windows and Macs",
+   "url": "https://unsung.aresluna.org/deeper-dive-keyboard-differences-between-windows-and-macs/",
+   "site": "unsung.aresluna.org",
+   "points": 319,
+   "source": "Hacker News"
+  },
+  {
+   "title": "Programming Isn't Special",
+   "url": "https://blog.glyph.im/2026/10/programming-isnt-special.html",
+   "site": "blog.glyph.im",
+   "points": 163,
+   "source": "Hacker News"
+  },
+  {
+   "title": "MXC - a sandboxed code execution system",
+   "url": "https://github.com/microsoft/mxc",
+   "site": "github.com",
+   "points": 177,
+   "source": "Hacker News"
+  },
+  {
+   "title": "OpenAI fires three safety researchers for \"mishandling research information\"",
+   "url": "https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/",
+   "site": "techcrunch.com",
+   "points": 305,
+   "source": "Hacker News"
+  },
+  {
+   "title": "What mathematicians should know about the Lean Theorem Prover: reliability & AI",
+   "url": "https://terrytao.wordpress.com/2026/10/09/what-mathematicians-should-know-about-the-lean-theorem-proverquestions-of-reliability-and-ai/",
+   "site": "terrytao.wordpress.com",
+   "points": 18,
+   "source": "Hacker News"
+  },
+  {
+   "title": "You might want to try being less creative",
+   "url": "https://blog.bawolf.com/p/you-might-want-to-try-being-less",
+   "site": "blog.bawolf.com",
+   "points": 61,
+   "source": "Hacker News"
+  },
+  {
+   "title": "Theranos.world",
+   "url": "https://www.theranos.world/",
+   "site": "theranos.world",
+   "points": 547,
+   "source": "Hacker News"
+  }
+ ],
+ "china": [
+  {
+   "title": "巴拿马7.6级强震",
+   "url": "https://www.baidu.com/s?wd=%E5%B7%B4%E6%8B%BF%E9%A9%AC7.6%E7%BA%A7%E5%BC%BA%E9%9C%87",
+   "hot": "7808206",
+   "source": "百度热搜"
+  },
+  {
+   "title": "中小银行大额存单利率逆势上调",
+   "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%B0%8F%E9%93%B6%E8%A1%8C%E5%A4%A7%E9%A2%9D%E5%AD%98%E5%8D%95%E5%88%A9%E7%8E%87%E9%80%86%E5%8A%BF%E4%B8%8A%E8%B0%83",
+   "hot": "7714293",
+   "source": "百度热搜"
+  },
+  {
+   "title": "为什么要花数万亿改造地下管网",
+   "url": "https://www.baidu.com/s?wd=%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A6%81%E8%8A%B1%E6%95%B0%E4%B8%87%E4%BA%BF%E6%94%B9%E9%80%A0%E5%9C%B0%E4%B8%8B%E7%AE%A1%E7%BD%91",
+   "hot": "7617646",
+   "source": "百度热搜"
+  },
+  {
+   "title": "巴拿马强震 大楼震颤房屋成片倒塌",
+   "url": "https://www.baidu.com/s?wd=%E5%B7%B4%E6%8B%BF%E9%A9%AC%E5%BC%BA%E9%9C%87%20%E5%A4%A7%E6%A5%BC%E9%9C%87%E9%A2%A4%E6%88%BF%E5%B1%8B%E6%88%90%E7%89%87%E5%80%92%E5%A1%8C",
+   "hot": "7523860",
+   "source": "百度热搜"
+  },
+  {
+   "title": "中国女子珠峰遇难 疑抄近路坠崖",
+   "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%A5%B3%E5%AD%90%E7%8F%A0%E5%B3%B0%E9%81%87%E9%9A%BE%20%E7%96%91%E6%8A%84%E8%BF%91%E8%B7%AF%E5%9D%A0%E5%B4%96",
+   "hot": "7424306",
+   "source": "百度热搜"
+  },
+  {
+   "title": "最淡泊的福建首富 静静地走了",
+   "url": "https://www.baidu.com/s?wd=%E6%9C%80%E6%B7%A1%E6%B3%8A%E7%9A%84%E7%A6%8F%E5%BB%BA%E9%A6%96%E5%AF%8C%20%E9%9D%99%E9%9D%99%E5%9C%B0%E8%B5%B0%E4%BA%86",
+   "hot": "7331499",
+   "source": "百度热搜"
+  },
+  {
+   "title": "宋佳集齐三大奖",
+   "url": "https://www.baidu.com/s?wd=%E5%AE%8B%E4%BD%B3%E9%9B%86%E9%BD%90%E4%B8%89%E5%A4%A7%E5%A5%96",
+   "hot": "7237361",
+   "source": "百度热搜"
+  },
+  {
+   "title": "多家医院、卫生院暂停夜间门诊",
+   "url": "https://www.baidu.com/s?wd=%E5%A4%9A%E5%AE%B6%E5%8C%BB%E9%99%A2%E3%80%81%E5%8D%AB%E7%94%9F%E9%99%A2%E6%9A%82%E5%81%9C%E5%A4%9C%E9%97%B4%E9%97%A8%E8%AF%8A",
+   "hot": "7136430",
+   "source": "百度热搜"
+  },
+  {
+   "title": "超强厄尔尼诺形成 如何防备",
+   "url": "https://www.baidu.com/s?wd=%E8%B6%85%E5%BC%BA%E5%8E%84%E5%B0%94%E5%B0%BC%E8%AF%BA%E5%BD%A2%E6%88%90%20%E5%A6%82%E4%BD%95%E9%98%B2%E5%A4%87",
+   "hot": "7047222",
+   "source": "百度热搜"
+  },
+  {
+   "title": "赵丽颖发文祝贺王仁君拿奖",
+   "url": "https://www.baidu.com/s?wd=%E8%B5%B5%E4%B8%BD%E9%A2%96%E5%8F%91%E6%96%87%E7%A5%9D%E8%B4%BA%E7%8E%8B%E4%BB%81%E5%90%9B%E6%8B%BF%E5%A5%96",
+   "hot": "6945278",
+   "source": "百度热搜"
+  },
+  {
+   "title": "西游“打工人”被骗 妖精不一般",
+   "url": "https://www.baidu.com/s?wd=%E8%A5%BF%E6%B8%B8%E2%80%9C%E6%89%93%E5%B7%A5%E4%BA%BA%E2%80%9D%E8%A2%AB%E9%AA%97%20%E5%A6%96%E7%B2%BE%E4%B8%8D%E4%B8%80%E8%88%AC",
+   "hot": "6849400",
+   "source": "百度热搜"
+  },
+  {
+   "title": "于和伟飞天奖红毯步履蹒跚",
+   "url": "https://www.baidu.com/s?wd=%E4%BA%8E%E5%92%8C%E4%BC%9F%E9%A3%9E%E5%A4%A9%E5%A5%96%E7%BA%A2%E6%AF%AF%E6%AD%A5%E5%B1%A5%E8%B9%92%E8%B7%9A",
+   "hot": "6761059",
+   "source": "百度热搜"
+  },
+  {
+   "title": "胡军李乃文架着欧豪走红毯",
+   "url": "https://www.baidu.com/s?wd=%E8%83%A1%E5%86%9B%E6%9D%8E%E4%B9%83%E6%96%87%E6%9E%B6%E7%9D%80%E6%AC%A7%E8%B1%AA%E8%B5%B0%E7%BA%A2%E6%AF%AF",
+   "hot": "6661495",
+   "source": "百度热搜"
+  },
+  {
+   "title": "关晓彤闫妮转圈让C位",
+   "url": "https://www.baidu.com/s?wd=%E5%85%B3%E6%99%93%E5%BD%A4%E9%97%AB%E5%A6%AE%E8%BD%AC%E5%9C%88%E8%AE%A9C%E4%BD%8D",
+   "hot": "6566491",
+   "source": "百度热搜"
+  },
+  {
+   "title": "普京特朗普通话 俄将向全球供应石油",
+   "url": "https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%E7%89%B9%E6%9C%97%E6%99%AE%E9%80%9A%E8%AF%9D%20%E4%BF%84%E5%B0%86%E5%90%91%E5%85%A8%E7%90%83%E4%BE%9B%E5%BA%94%E7%9F%B3%E6%B2%B9",
+   "hot": "6468139",
+   "source": "百度热搜"
+  },
+  {
+   "title": "“我不小心把丈夫落在高速上了”",
+   "url": "https://www.baidu.com/s?wd=%E2%80%9C%E6%88%91%E4%B8%8D%E5%B0%8F%E5%BF%83%E6%8A%8A%E4%B8%88%E5%A4%AB%E8%90%BD%E5%9C%A8%E9%AB%98%E9%80%9F%E4%B8%8A%E4%BA%86%E2%80%9D",
+   "hot": "6368546",
+   "source": "百度热搜"
+  },
+  {
+   "title": "周深又来贡献名场面了",
+   "url": "https://www.baidu.com/s?wd=%E5%91%A8%E6%B7%B1%E5%8F%88%E6%9D%A5%E8%B4%A1%E7%8C%AE%E5%90%8D%E5%9C%BA%E9%9D%A2%E4%BA%86",
+   "hot": "6283923",
+   "source": "百度热搜"
+  },
+  {
+   "title": "飞天奖获奖名单",
+   "url": "https://www.baidu.com/s?wd=%E9%A3%9E%E5%A4%A9%E5%A5%96%E8%8E%B7%E5%A5%96%E5%90%8D%E5%8D%95",
+   "hot": "6190272",
+   "source": "百度热搜"
+  },
+  {
+   "title": "商场新“三件套”",
+   "url": "https://www.baidu.com/s?wd=%E5%95%86%E5%9C%BA%E6%96%B0%E2%80%9C%E4%B8%89%E4%BB%B6%E5%A5%97%E2%80%9D",
+   "hot": "6096569",
+   "source": "百度热搜"
+  },
+  {
+   "title": "闫妮《小巷人家》一个奖没拿到",
+   "url": "https://www.baidu.com/s?wd=%E9%97%AB%E5%A6%AE%E3%80%8A%E5%B0%8F%E5%B7%B7%E4%BA%BA%E5%AE%B6%E3%80%8B%E4%B8%80%E4%B8%AA%E5%A5%96%E6%B2%A1%E6%8B%BF%E5%88%B0",
+   "hot": "5982750",
+   "source": "百度热搜"
+  },
+  {
+   "title": "王仁君获“飞天奖”优秀男演员奖",
+   "url": "https://www.baidu.com/s?wd=%E7%8E%8B%E4%BB%81%E5%90%9B%E8%8E%B7%E2%80%9C%E9%A3%9E%E5%A4%A9%E5%A5%96%E2%80%9D%E4%BC%98%E7%A7%80%E7%94%B7%E6%BC%94%E5%91%98%E5%A5%96",
+   "hot": "5889324",
+   "source": "百度热搜"
+  },
+  {
+   "title": "“修马蹄”月薪可达六位数",
+   "url": "https://www.baidu.com/s?wd=%E2%80%9C%E4%BF%AE%E9%A9%AC%E8%B9%84%E2%80%9D%E6%9C%88%E8%96%AA%E5%8F%AF%E8%BE%BE%E5%85%AD%E4%BD%8D%E6%95%B0",
+   "hot": "5809607",
+   "source": "百度热搜"
+  },
+  {
+   "title": "9家央企售电公司联名求助",
+   "url": "https://www.baidu.com/s?wd=9%E5%AE%B6%E5%A4%AE%E4%BC%81%E5%94%AE%E7%94%B5%E5%85%AC%E5%8F%B8%E8%81%94%E5%90%8D%E6%B1%82%E5%8A%A9",
+   "hot": "5706296",
+   "source": "百度热搜"
+  },
+  {
+   "title": "宋佳现场含泪感谢张桂梅老师",
+   "url": "https://www.baidu.com/s?wd=%E5%AE%8B%E4%BD%B3%E7%8E%B0%E5%9C%BA%E5%90%AB%E6%B3%AA%E6%84%9F%E8%B0%A2%E5%BC%A0%E6%A1%82%E6%A2%85%E8%80%81%E5%B8%88",
+   "hot": "5601758",
+   "source": "百度热搜"
+  },
+  {
+   "title": "倪萍祝福李乃文好好活着",
+   "url": "https://www.baidu.com/s?wd=%E5%80%AA%E8%90%8D%E7%A5%9D%E7%A6%8F%E6%9D%8E%E4%B9%83%E6%96%87%E5%A5%BD%E5%A5%BD%E6%B4%BB%E7%9D%80",
+   "hot": "5515900",
+   "source": "百度热搜"
+  },
+  {
+   "title": "飞天奖优秀女演员 宋佳",
+   "url": "https://www.baidu.com/s?wd=%E9%A3%9E%E5%A4%A9%E5%A5%96%E4%BC%98%E7%A7%80%E5%A5%B3%E6%BC%94%E5%91%98%20%E5%AE%8B%E4%BD%B3",
+   "hot": "5427679",
+   "source": "百度热搜"
+  },
+  {
+   "title": "贝克汉姆王濛成龙马云现身NBA中国赛",
+   "url": "https://www.baidu.com/s?wd=%E8%B4%9D%E5%85%8B%E6%B1%89%E5%A7%86%E7%8E%8B%E6%BF%9B%E6%88%90%E9%BE%99%E9%A9%AC%E4%BA%91%E7%8E%B0%E8%BA%ABNBA%E4%B8%AD%E5%9B%BD%E8%B5%9B",
+   "hot": "5336635",
+   "source": "百度热搜"
+  },
+  {
+   "title": "马化腾姚顺雨罕见同框",
+   "url": "https://www.baidu.com/s?wd=%E9%A9%AC%E5%8C%96%E8%85%BE%E5%A7%9A%E9%A1%BA%E9%9B%A8%E7%BD%95%E8%A7%81%E5%90%8C%E6%A1%86",
+   "hot": "5225674",
+   "source": "百度热搜"
+  },
+  {
+   "title": "山姆对黄牛出手了",
+   "url": "https://www.baidu.com/s?wd=%E5%B1%B1%E5%A7%86%E5%AF%B9%E9%BB%84%E7%89%9B%E5%87%BA%E6%89%8B%E4%BA%86",
+   "hot": "5135259",
+   "source": "百度热搜"
+  },
+  {
+   "title": "秦海璐颁奖前口误 王雷紧急救场",
+   "url": "https://www.baidu.com/s?wd=%E7%A7%A6%E6%B5%B7%E7%92%90%E9%A2%81%E5%A5%96%E5%89%8D%E5%8F%A3%E8%AF%AF%20%E7%8E%8B%E9%9B%B7%E7%B4%A7%E6%80%A5%E6%95%91%E5%9C%BA",
+   "hot": "5031535",
+   "source": "百度热搜"
+  },
+  {
+   "title": "美军12架军机连夜撤离英国意味着什么",
+   "url": "https://so.toutiao.com/search?keyword=%E7%BE%8E%E5%86%9B12%E6%9E%B6%E5%86%9B%E6%9C%BA%E8%BF%9E%E5%A4%9C%E6%92%A4%E7%A6%BB%E8%8B%B1%E5%9B%BD%E6%84%8F%E5%91%B3%E7%9D%80%E4%BB%80%E4%B9%88",
+   "hot": "28080388",
+   "source": "今日头条"
+  },
+  {
+   "title": "马斯克称未来金钱可能不再重要",
+   "url": "https://so.toutiao.com/search?keyword=%E9%A9%AC%E6%96%AF%E5%85%8B%E7%A7%B0%E6%9C%AA%E6%9D%A5%E9%87%91%E9%92%B1%E5%8F%AF%E8%83%BD%E4%B8%8D%E5%86%8D%E9%87%8D%E8%A6%81",
+   "hot": "25408185",
+   "source": "今日头条"
+  },
+  {
+   "title": "走进长征展览，一起重温“伟大远征”",
+   "url": "https://so.toutiao.com/search?keyword=%E8%B5%B0%E8%BF%9B%E9%95%BF%E5%BE%81%E5%B1%95%E8%A7%88%EF%BC%8C%E4%B8%80%E8%B5%B7%E9%87%8D%E6%B8%A9%E2%80%9C%E4%BC%9F%E5%A4%A7%E8%BF%9C%E5%BE%81%E2%80%9D",
+   "hot": "22990277",
+   "source": "今日头条"
+  },
+  {
+   "title": "李子坝地下33米藏一亿现钞",
+   "url": "https://so.toutiao.com/search?keyword=%E6%9D%8E%E5%AD%90%E5%9D%9D%E5%9C%B0%E4%B8%8B33%E7%B1%B3%E8%97%8F%E4%B8%80%E4%BA%BF%E7%8E%B0%E9%92%9E",
+   "hot": "20802463",
+   "source": "今日头条"
+  },
+  {
+   "title": "郭晶晶获授荣誉院士霍启刚直言骄傲",
+   "url": "https://so.toutiao.com/search?keyword=%E9%83%AD%E6%99%B6%E6%99%B6%E8%8E%B7%E6%8E%88%E8%8D%A3%E8%AA%89%E9%99%A2%E5%A3%AB%E9%9C%8D%E5%90%AF%E5%88%9A%E7%9B%B4%E8%A8%80%E9%AA%84%E5%82%B2",
+   "hot": "18822847",
+   "source": "今日头条"
+  },
+  {
+   "title": "王仁君获飞天奖优秀男演员奖",
+   "url": "https://so.toutiao.com/search?keyword=%E7%8E%8B%E4%BB%81%E5%90%9B%E8%8E%B7%E9%A3%9E%E5%A4%A9%E5%A5%96%E4%BC%98%E7%A7%80%E7%94%B7%E6%BC%94%E5%91%98%E5%A5%96",
+   "hot": "17031616",
+   "source": "今日头条"
+  },
+  {
+   "title": "姚明马云现身NBA中国赛场边观赛",
+   "url": "https://so.toutiao.com/search?keyword=%E5%A7%9A%E6%98%8E%E9%A9%AC%E4%BA%91%E7%8E%B0%E8%BA%ABNBA%E4%B8%AD%E5%9B%BD%E8%B5%9B%E5%9C%BA%E8%BE%B9%E8%A7%82%E8%B5%9B",
+   "hot": "15410843",
+   "source": "今日头条"
+  },
+  {
+   "title": "媒体：许多球员没有资格进入国足",
+   "url": "https://so.toutiao.com/search?keyword=%E5%AA%92%E4%BD%93%EF%BC%9A%E8%AE%B8%E5%A4%9A%E7%90%83%E5%91%98%E6%B2%A1%E6%9C%89%E8%B5%84%E6%A0%BC%E8%BF%9B%E5%85%A5%E5%9B%BD%E8%B6%B3",
+   "hot": "13944308",
+   "source": "今日头条"
+  },
+  {
+   "title": "WTT中国大满贯女单四强全部产生",
+   "url": "https://so.toutiao.com/search?keyword=WTT%E4%B8%AD%E5%9B%BD%E5%A4%A7%E6%BB%A1%E8%B4%AF%E5%A5%B3%E5%8D%95%E5%9B%9B%E5%BC%BA%E5%85%A8%E9%83%A8%E4%BA%A7%E7%94%9F",
+   "hot": "12617331",
+   "source": "今日头条"
+  },
+  {
+   "title": "大英博物馆两件康熙时期青花瓷遭损坏",
+   "url": "https://so.toutiao.com/search?keyword=%E5%A4%A7%E8%8B%B1%E5%8D%9A%E7%89%A9%E9%A6%86%E4%B8%A4%E4%BB%B6%E5%BA%B7%E7%86%99%E6%97%B6%E6%9C%9F%E9%9D%92%E8%8A%B1%E7%93%B7%E9%81%AD%E6%8D%9F%E5%9D%8F",
+   "hot": "11416633",
+   "source": "今日头条"
+  },
+  {
+   "title": "欧豪被胡军李乃文“架”着走上红毯",
+   "url": "https://so.toutiao.com/search?keyword=%E6%AC%A7%E8%B1%AA%E8%A2%AB%E8%83%A1%E5%86%9B%E6%9D%8E%E4%B9%83%E6%96%87%E2%80%9C%E6%9E%B6%E2%80%9D%E7%9D%80%E8%B5%B0%E4%B8%8A%E7%BA%A2%E6%AF%AF",
+   "hot": "10330197",
+   "source": "今日头条"
+  },
+  {
+   "title": "假期床车旅行爆火：三口6天仅花1600",
+   "url": "https://so.toutiao.com/search?keyword=%E5%81%87%E6%9C%9F%E5%BA%8A%E8%BD%A6%E6%97%85%E8%A1%8C%E7%88%86%E7%81%AB%EF%BC%9A%E4%B8%89%E5%8F%A36%E5%A4%A9%E4%BB%85%E8%8A%B11600",
+   "hot": "9347149",
+   "source": "今日头条"
+  },
+  {
+   "title": "北京辟谣：警惕兼职刷单诈骗手段",
+   "url": "https://so.toutiao.com/search?keyword=%E5%8C%97%E4%BA%AC%E8%BE%9F%E8%B0%A3%EF%BC%9A%E8%AD%A6%E6%83%95%E5%85%BC%E8%81%8C%E5%88%B7%E5%8D%95%E8%AF%88%E9%AA%97%E6%89%8B%E6%AE%B5",
+   "hot": "8457650",
+   "source": "今日头条"
+  },
+  {
+   "title": "女局长被指出轨多人 当地成立调查组",
+   "url": "https://so.toutiao.com/search?keyword=%E5%A5%B3%E5%B1%80%E9%95%BF%E8%A2%AB%E6%8C%87%E5%87%BA%E8%BD%A8%E5%A4%9A%E4%BA%BA%20%E5%BD%93%E5%9C%B0%E6%88%90%E7%AB%8B%E8%B0%83%E6%9F%A5%E7%BB%84",
+   "hot": "7652798",
+   "source": "今日头条"
+  },
+  {
+   "title": "张碧晨被迪丽热巴美迷糊了",
+   "url": "https://so.toutiao.com/search?keyword=%E5%BC%A0%E7%A2%A7%E6%99%A8%E8%A2%AB%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E7%BE%8E%E8%BF%B7%E7%B3%8A%E4%BA%86",
+   "hot": "6924538",
+   "source": "今日头条"
+  },
+  {
+   "title": "女儿谈101岁父亲106岁母亲长寿秘诀",
+   "url": "https://so.toutiao.com/search?keyword=%E5%A5%B3%E5%84%BF%E8%B0%88101%E5%B2%81%E7%88%B6%E4%BA%B2106%E5%B2%81%E6%AF%8D%E4%BA%B2%E9%95%BF%E5%AF%BF%E7%A7%98%E8%AF%80",
+   "hot": "6265581",
+   "source": "今日头条"
+  },
+  {
+   "title": "一次讲清C罗“离队门”来龙去脉",
+   "url": "https://so.toutiao.com/search?keyword=%E4%B8%80%E6%AC%A1%E8%AE%B2%E6%B8%85C%E7%BD%97%E2%80%9C%E7%A6%BB%E9%98%9F%E9%97%A8%E2%80%9D%E6%9D%A5%E9%BE%99%E5%8E%BB%E8%84%89",
+   "hot": "5669332",
+   "source": "今日头条"
+  },
+  {
+   "title": "出轨多人的女局长巨额财产哪来的",
+   "url": "https://so.toutiao.com/search?keyword=%E5%87%BA%E8%BD%A8%E5%A4%9A%E4%BA%BA%E7%9A%84%E5%A5%B3%E5%B1%80%E9%95%BF%E5%B7%A8%E9%A2%9D%E8%B4%A2%E4%BA%A7%E5%93%AA%E6%9D%A5%E7%9A%84",
+   "hot": "5129824",
+   "source": "今日头条"
+  },
+  {
+   "title": "反诈民警：400来电大胆挂断",
+   "url": "https://so.toutiao.com/search?keyword=%E5%8F%8D%E8%AF%88%E6%B0%91%E8%AD%A6%EF%BC%9A400%E6%9D%A5%E7%94%B5%E5%A4%A7%E8%83%86%E6%8C%82%E6%96%AD",
+   "hot": "4641656",
+   "source": "今日头条"
+  },
+  {
+   "title": "秦海璐颁奖前口误王雷紧急救场",
+   "url": "https://so.toutiao.com/search?keyword=%E7%A7%A6%E6%B5%B7%E7%92%90%E9%A2%81%E5%A5%96%E5%89%8D%E5%8F%A3%E8%AF%AF%E7%8E%8B%E9%9B%B7%E7%B4%A7%E6%80%A5%E6%95%91%E5%9C%BA",
+   "hot": "4199944",
+   "source": "今日头条"
+  },
+  {
+   "title": "女子花99000元买100多克黄金送父母",
+   "url": "https://so.toutiao.com/search?keyword=%E5%A5%B3%E5%AD%90%E8%8A%B199000%E5%85%83%E4%B9%B0100%E5%A4%9A%E5%85%8B%E9%BB%84%E9%87%91%E9%80%81%E7%88%B6%E6%AF%8D",
+   "hot": "3800267",
+   "source": "今日头条"
+  },
+  {
+   "title": "“投资魔女”李蓓为何看空A股科技股",
+   "url": "https://so.toutiao.com/search?keyword=%E2%80%9C%E6%8A%95%E8%B5%84%E9%AD%94%E5%A5%B3%E2%80%9D%E6%9D%8E%E8%93%93%E4%B8%BA%E4%BD%95%E7%9C%8B%E7%A9%BAA%E8%82%A1%E7%A7%91%E6%8A%80%E8%82%A1",
+   "hot": "3438624",
+   "source": "今日头条"
+  },
+  {
+   "title": "万茜亮相第35届飞天奖红毯",
+   "url": "https://so.toutiao.com/search?keyword=%E4%B8%87%E8%8C%9C%E4%BA%AE%E7%9B%B8%E7%AC%AC35%E5%B1%8A%E9%A3%9E%E5%A4%A9%E5%A5%96%E7%BA%A2%E6%AF%AF",
+   "hot": "3111395",
+   "source": "今日头条"
+  },
+  {
+   "title": "曝小米YU7上市一年单车销售额达624亿",
+   "url": "https://so.toutiao.com/search?keyword=%E6%9B%9D%E5%B0%8F%E7%B1%B3YU7%E4%B8%8A%E5%B8%82%E4%B8%80%E5%B9%B4%E5%8D%95%E8%BD%A6%E9%94%80%E5%94%AE%E9%A2%9D%E8%BE%BE624%E4%BA%BF",
+   "hot": "2815307",
+   "source": "今日头条"
+  },
+  {
+   "title": "马化腾姚顺雨罕见同框",
+   "url": "https://so.toutiao.com/search?keyword=%E9%A9%AC%E5%8C%96%E8%85%BE%E5%A7%9A%E9%A1%BA%E9%9B%A8%E7%BD%95%E8%A7%81%E5%90%8C%E6%A1%86",
+   "hot": "2547395",
+   "source": "今日头条"
+  },
+  {
+   "title": "高圆圆张鲁一共同亮相飞天奖红毯",
+   "url": "https://so.toutiao.com/search?keyword=%E9%AB%98%E5%9C%86%E5%9C%86%E5%BC%A0%E9%B2%81%E4%B8%80%E5%85%B1%E5%90%8C%E4%BA%AE%E7%9B%B8%E9%A3%9E%E5%A4%A9%E5%A5%96%E7%BA%A2%E6%AF%AF",
+   "hot": "2304978",
+   "source": "今日头条"
+  },
+  {
+   "title": "俄再炸大型发电厂 基辅陷大规模停电",
+   "url": "https://so.toutiao.com/search?keyword=%E4%BF%84%E5%86%8D%E7%82%B8%E5%A4%A7%E5%9E%8B%E5%8F%91%E7%94%B5%E5%8E%82%20%E5%9F%BA%E8%BE%85%E9%99%B7%E5%A4%A7%E8%A7%84%E6%A8%A1%E5%81%9C%E7%94%B5",
+   "hot": "2085630",
+   "source": "今日头条"
+  },
+  {
+   "title": "王曼昱多次一球致胜申裕斌无奈微笑",
+   "url": "https://so.toutiao.com/search?keyword=%E7%8E%8B%E6%9B%BC%E6%98%B1%E5%A4%9A%E6%AC%A1%E4%B8%80%E7%90%83%E8%87%B4%E8%83%9C%E7%94%B3%E8%A3%95%E6%96%8C%E6%97%A0%E5%A5%88%E5%BE%AE%E7%AC%91",
+   "hot": "1887156",
+   "source": "今日头条"
+  },
+  {
+   "title": "宋佳集齐三大奖",
+   "url": "https://so.toutiao.com/search?keyword=%E5%AE%8B%E4%BD%B3%E9%9B%86%E9%BD%90%E4%B8%89%E5%A4%A7%E5%A5%96",
+   "hot": "1707570",
+   "source": "今日头条"
+  },
+  {
+   "title": "张雪机车WSBK冲击第七冠",
+   "url": "https://so.toutiao.com/search?keyword=%E5%BC%A0%E9%9B%AA%E6%9C%BA%E8%BD%A6WSBK%E5%86%B2%E5%87%BB%E7%AC%AC%E4%B8%83%E5%86%A0",
+   "hot": "1545073",
+   "source": "今日头条"
+  }
+ ],
+ "ai": [
+  {
+   "title": "An Explainable Header-Centric Framework for Large-Scale Semantic Table Interpretation and Data Quality Assessment",
+   "url": "https://arxiv.org/abs/2610.10541",
+   "meta": "Fri, 09 Oct 2026",
+   "source": "arXiv"
+  },
+  {
+   "title": "Synthesis Through Simulation: Generating Coherent Enterprise Data via Scalable Agent-System Interaction",
+   "url": "https://arxiv.org/abs/2610.10549",
+   "meta": "Fri, 09 Oct 2026",
+   "source": "arXiv"
+  },
+  {
+   "title": "Agent-Controlled Forgetting for Tool-Using Agents: Reversible Context Curation in Practice",
+   "url": "https://arxiv.org/abs/2610.10590",
+   "meta": "Fri, 09 Oct 2026",
+   "source": "arXiv"
+  },
+  {
+   "title": "Verification and Self-Improvement in Agentic AI: Foundations and Limits",
+   "url": "https://arxiv.org/abs/2610.10611",
+   "meta": "Fri, 09 Oct 2026",
+   "source": "arXiv"
+  },
+  {
+   "title": "The Harness as the Only Mutable Surface: Compliance-Bounded Self-Evolution of LLM Agents in Credit Pipelines, with a Measured Admission Gate",
+   "url": "https://arxiv.org/abs/2610.10629",
+   "meta": "Fri, 09 Oct 2026",
+   "source": "arXiv"
+  },
+  {
+   "title": "Speaking the Navigator's Language: Trajectory-Grounded Instruction Translation for Frozen Aerial VLN Agents",
+   "url": "https://arxiv.org/abs/2610.10635",
+   "meta": "Fri, 09 Oct 2026",
+   "source": "arXiv"
+  },
+  {
+   "title": "Plan-and-Patch: Diffusion Language Models for Agentic Planning",
+   "url": "https://arxiv.org/abs/2610.10786",
+   "meta": "Fri, 09 Oct 2026",
+   "source": "arXiv"
+  },
+  {
+   "title": "Whose Ground Truth? Embracing Ambiguity in Human-Centered AI",
+   "url": "https://arxiv.org/abs/2610.10805",
+   "meta": "Fri, 09 Oct 2026",
+   "source": "arXiv"
+  },
+  {
+   "title": "On the Clock: Towards Punctual and Productive Time-Budgeted AI Agents",
+   "url": "https://arxiv.org/abs/2610.10833",
+   "meta": "Fri, 09 Oct 2026",
+   "source": "arXiv"
+  },
+  {
+   "title": "Self-Supervised Keyframe Discovery for Horizon-Invariant Behavior Cloning",
+   "url": "https://arxiv.org/abs/2610.10857",
+   "meta": "Fri, 09 Oct 2026",
+   "source": "arXiv"
+  },
+  {
+   "title": "Reading the Room: Foundations, Design, and Challenges of Normative Competence in LLMs",
+   "url": "https://arxiv.org/abs/2610.10906",
+   "meta": "Fri, 09 Oct 2026",
+   "source": "arXiv"
+  },
+  {
+   "title": "StoreBench: A Live-Commerce Environment for Evaluating and Training Autonomous Operator Agents",
+   "url": "https://arxiv.org/abs/2610.10942",
+   "meta": "Fri, 09 Oct 2026",
+   "source": "arXiv"
+  },
+  {
+   "title": "Learning How to Search for Plans with Exponentially Less Space",
+   "url": "https://arxiv.org/abs/2610.10954",
+   "meta": "Fri, 09 Oct 2026",
+   "source": "arXiv"
+  },
+  {
+   "title": "How Narrative Wrapping Affects LLM Refusal: A Cross-Language Benchmark and Defense",
+   "url": "https://arxiv.org/abs/2610.11005",
+   "meta": "Fri, 09 Oct 2026",
+   "source": "arXiv"
+  },
+  {
+   "title": "Curating Always-Loaded Context for LLM Agents: A Capacitated Assortment Model with Censored Feedback",
+   "url": "https://arxiv.org/abs/2610.11007",
+   "meta": "Fri, 09 Oct 2026",
+   "source": "arXiv"
+  },
+  {
+   "title": "Qwen/Qwen3.8-27B",
+   "url": "https://huggingface.co/Qwen/Qwen3.8-27B",
+   "meta": "❤ 17349",
+   "source": "HuggingFace"
+  },
+  {
+   "title": "black-forest-labs/FLUX.1-dev",
+   "url": "https://huggingface.co/black-forest-labs/FLUX.1-dev",
+   "meta": "❤ 15464",
+   "source": "HuggingFace"
+  },
+  {
+   "title": "deepseek-ai/DeepSeek-R1",
+   "url": "https://huggingface.co/deepseek-ai/DeepSeek-R1",
+   "meta": "❤ 14339",
+   "source": "HuggingFace"
+  },
+  {
+   "title": "moonshotai/Kimi-K3",
+   "url": "https://huggingface.co/moonshotai/Kimi-K3",
+   "meta": "❤ 11645",
+   "source": "HuggingFace"
+  },
+  {
+   "title": "meta-llama/Llama-3.1-8B-Instruct",
+   "url": "https://huggingface.co/meta-llama/Llama-3.1-8B-Instruct",
+   "meta": "❤ 8314",
+   "source": "HuggingFace"
+  },
+  {
+   "title": "stabilityai/stable-diffusion-xl-base-1.0",
+   "url": "https://huggingface.co/stabilityai/stable-diffusion-xl-base-1.0",
+   "meta": "❤ 8287",
+   "source": "HuggingFace"
+  },
+  {
+   "title": "hexgrad/Kokoro-82M",
+   "url": "https://huggingface.co/hexgrad/Kokoro-82M",
+   "meta": "❤ 7180",
+   "source": "HuggingFace"
+  },
+  {
+   "title": "CompVis/stable-diffusion-v1-4",
+   "url": "https://huggingface.co/CompVis/stable-diffusion-v1-4",
+   "meta": "❤ 7107",
+   "source": "HuggingFace"
+  },
+  {
+   "title": "Lightricks/LTX-2.5",
+   "url": "https://huggingface.co/Lightricks/LTX-2.5",
+   "meta": "❤ 7064",
+   "source": "HuggingFace"
+  },
+  {
+   "title": "meta-llama/Meta-Llama-3-8B",
+   "url": "https://huggingface.co/meta-llama/Meta-Llama-3-8B",
+   "meta": "❤ 6737",
+   "source": "HuggingFace"
+  },
+  {
+   "title": "openai/whisper-large-v3",
+   "url": "https://huggingface.co/openai/whisper-large-v3",
+   "meta": "❤ 6584",
+   "source": "HuggingFace"
+  },
+  {
+   "title": "sentence-transformers/all-MiniLM-L6-v2",
+   "url": "https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2",
+   "meta": "❤ 6227",
+   "source": "HuggingFace"
+  },
+  {
+   "title": "black-forest-labs/FLUX.1-schnell",
+   "url": "https://huggingface.co/black-forest-labs/FLUX.1-schnell",
+   "meta": "❤ 6182",
+   "source": "HuggingFace"
+  },
+  {
+   "title": "Qwen/Qwen3.8-Flash-Next",
+   "url": "https://huggingface.co/Qwen/Qwen3.8-Flash-Next",
+   "meta": "❤ 6059",
+   "source": "HuggingFace"
+  },
+  {
+   "title": "MiniMaxAI/MiniMax-H3",
+   "url": "https://huggingface.co/MiniMaxAI/MiniMax-H3",
+   "meta": "❤ 6003",
+   "source": "HuggingFace"
+  },
+  {
+   "title": "mizorewww/laya-mlx",
+   "url": "https://github.com/mizorewww/laya-mlx",
+   "meta": "⭐ 6854 · Python",
+   "source": "GitHub"
+  },
+  {
+   "title": "qwdwqfwq/topconf-paper-figure-gallery",
+   "url": "https://github.com/qwdwqfwq/topconf-paper-figure-gallery",
+   "meta": "⭐ 883 · HTML",
+   "source": "GitHub"
+  },
+  {
+   "title": "wfzyx/von",
+   "url": "https://github.com/wfzyx/von",
+   "meta": "⭐ 875 · Python",
+   "source": "GitHub"
+  },
+  {
+   "title": "AbdelStark/awesome-typesafe-jev",
+   "url": "https://github.com/AbdelStark/awesome-typesafe-jev",
+   "meta": "⭐ 577 · HTML",
+   "source": "GitHub"
+  },
+  {
+   "title": "Sidiora-Labs/Paxeer-X-Network",
+   "url": "https://github.com/Sidiora-Labs/Paxeer-X-Network",
+   "meta": "⭐ 572 · Rust",
+   "source": "GitHub"
+  },
+  {
+   "title": "strands-labs/strands-decider",
+   "url": "https://github.com/strands-labs/strands-decider",
+   "meta": "⭐ 545 · Python",
+   "source": "GitHub"
+  },
+  {
+   "title": "muellerberndt/cadence",
+   "url": "https://github.com/muellerberndt/cadence",
+   "meta": "⭐ 426 · Python",
+   "source": "GitHub"
+  },
+  {
+   "title": "TrenTorch/TrenTorch",
+   "url": "https://github.com/TrenTorch/TrenTorch",
+   "meta": "⭐ 373 · Python",
+   "source": "GitHub"
+  },
+  {
+   "title": "Adkid-Zephyr/oral-paper-skill",
+   "url": "https://github.com/Adkid-Zephyr/oral-paper-skill",
+   "meta": "⭐ 355 · Python",
+   "source": "GitHub"
+  },
+  {
+   "title": "jrz97619761/test-model-thing",
+   "url": "https://github.com/jrz97619761/test-model-thing",
+   "meta": "⭐ 325 · Python",
+   "source": "GitHub"
+  },
+  {
+   "title": "zorost/AI-Engineering-Lab",
+   "url": "https://github.com/zorost/AI-Engineering-Lab",
+   "meta": "⭐ 318 · Jupyter Notebook",
+   "source": "GitHub"
+  },
+  {
+   "title": "Simreal-AI/Simreal-MLBench",
+   "url": "https://github.com/Simreal-AI/Simreal-MLBench",
+   "meta": "⭐ 301 · Python",
+   "source": "GitHub"
+  },
+  {
+   "title": "Heman10x-NGU/openJev-verdict-2.0",
+   "url": "https://github.com/Heman10x-NGU/openJev-verdict-2.0",
+   "meta": "⭐ 295 · Python",
+   "source": "GitHub"
+  },
+  {
+   "title": "fstandhartinger/jevbench",
+   "url": "https://github.com/fstandhartinger/jevbench",
+   "meta": "⭐ 246 · Python",
+   "source": "GitHub"
+  },
+  {
+   "title": "NiluK/worldmodels101",
+   "url": "https://github.com/NiluK/worldmodels101",
+   "meta": "⭐ 204 · TypeScript",
+   "source": "GitHub"
+  }
+ ],
+ "stats": {
+  "github": 11,
+  "world": 30,
+  "china": 60,
+  "ai": 45
+ }
+}
