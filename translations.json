@@ -264,5 +264,7 @@
  "VEPA: Verified Evolving Formal Policy for Lifelong LLM Agent Guardrails": "VEPA：经验证的、不断演进的、用于终身LLM代理防护栏的正式策略",
  "Reward Hacking as a Transmissible Strategy in Multi-Agent Coding Systems": "作为多智能体编码系统中可传播策略的“奖励破解”",
  "Neural networks are more modular than single neurons suggest": "神经网络的模块化程度比单个神经元所显示的要高",
- "Towards Defining, Measuring, and Leveraging Creativity in AI Applications": "关于在人工智能应用中定义、衡量和利用创造力的探索"
+ "Towards Defining, Measuring, and Leveraging Creativity in AI Applications": "关于在人工智能应用中定义、衡量和利用创造力的探索",
+ "Type-safe HTML templating in Zig": "Zig 中的类型安全 HTML 模板系统",
+ "Building a VMM from scratch, #0: Why BoxLite is replacing libkrun": "从零开始构建虚拟机管理器（VMM），第0篇：为什么BoxLite正在取代libkrun"
 }
