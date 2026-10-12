@@ -234,5 +234,10 @@
  "Illustration Beyond Proof": "《超越证明的插图》",
  "ClickHouse C – Talk to ClickHouse using its native binary protocol": "ClickHouse C – 使用其原生二进制协议与 ClickHouse 通信",
  "Rubber Duck: An AI interviewer for the knowledge in your head": "Rubber Duck：一款能挖掘你脑海中知识的AI面试官",
- "Shredding JSON columns gave Logfire up to 1000x faster queries": "拆分 JSON 列使 Logfire 的查询速度最高提升了 1000 倍"
+ "Shredding JSON columns gave Logfire up to 1000x faster queries": "拆分 JSON 列使 Logfire 的查询速度最高提升了 1000 倍",
+ "Cartographers of North Korea (2019)": "《朝鲜的制图师》（2019）",
+ "Local Indexing to reduce tool calling and token usage": "通过本地索引减少工具调用和令牌使用",
+ "Programmable pigments: Photochromic nanoparticle inks for rewritable tattoos": "可编程颜料：用于可重写纹身的光致变色纳米粒子墨水",
+ "HashiCorp archives the Boundary open source repo": "HashiCorp 将 Boundary 开源代码库归档",
+ "Qt An E2EE post-quantum messenger core in Rust (10k connections on 124MB RAM": "Qt 一个用 Rust 编写的端到端加密（E2EE）后量子通信核心（124MB 内存下支持 10k 个连接）"
 }
