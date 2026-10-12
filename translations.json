@@ -248,5 +248,21 @@
  "Sorry we made you grind LeetCode": "抱歉，让我们让你在LeetCode上刷题刷到发疯",
  "Tattoos you can turn on and off": "可以随心开启和关闭的纹身",
  "Calculus with Julia": "使用Julia学习微积分",
- "Doory – Open-Source Canva": "Doory – 开源版 Canva"
+ "Doory – Open-Source Canva": "Doory – 开源版 Canva",
+ "No portable way to detect string-to-float conversion errors in standard C": "在标准 C 中，没有可移植的方法来检测字符串转浮点数的转换错误",
+ "Faithfulness Without Anchors: A Position Paper on the Structural Misalignments of Explainable AI Faithfulness Metrics for Feature Importance": "缺乏锚点的忠实度：关于可解释人工智能特征重要性忠实度指标结构失调的立场文件",
+ "EliteTable: Self-Improving Program Search for Executable Control Policies": "EliteTable：用于搜索可执行控制策略的自优化程序",
+ "Equal-Budget Monte Carlo Tree Search versus Randomized-Restart List Scheduling for DAG Workflows: A Controlled Equal-Budget Computational Study": "针对有向无环图（DAG）工作流，等预算蒙特卡洛树搜索与随机重启列表调度法的比较：一项受控的等预算计算研究",
+ "Know What You Don't Know: Agentic Data Synthesis by Evolving Generation Space for Closed-Loop Learning": "知己所不知：通过演化生成空间实现闭环学习中的代理式数据合成",
+ "SpireBench: Evaluating Long-Horizon Strategic Play of Agentic Models with Slay the Spire": "SpireBench：利用《Slay the Spire》评估代理模型的长期战略玩法",
+ "Beyond Binary Verifiable Rewards: Behavioral Self-Rewarding for SWE Agents": "超越二进制可验证奖励：面向SWE智能体的行为自我奖励机制",
+ "CLEAT: Learning Value-Guided Clarification for Interactive Agents": "CLEAT：面向交互式智能体的基于价值引导的澄清学习",
+ "MagicBeanStalk: Escaping the RLVR Zero Advantage Trap with Recursive Data Synthesis": "MagicBeanStalk：利用递归数据合成摆脱RLVR零优势陷阱",
+ "Faithful and Complete LLM-Assisted Automated Construction of Hierarchical Hardware Knowledge Graphs": "基于LLM的、准确且完整的分层硬件知识图谱自动构建",
+ "Representation Alignment from a Few Paired Data via Distilled Optimal Transport": "基于蒸馏最优运输的少量配对数据表征对齐",
+ "EvoBelief: Falsifiable World Models for Self-Improving LLM Agents": "EvoBelief：适用于自我提升型大型语言模型（LLM）代理的可证伪世界模型",
+ "VEPA: Verified Evolving Formal Policy for Lifelong LLM Agent Guardrails": "VEPA：经验证的、不断演进的、用于终身LLM代理防护栏的正式策略",
+ "Reward Hacking as a Transmissible Strategy in Multi-Agent Coding Systems": "作为多智能体编码系统中可传播策略的“奖励破解”",
+ "Neural networks are more modular than single neurons suggest": "神经网络的模块化程度比单个神经元所显示的要高",
+ "Towards Defining, Measuring, and Leveraging Creativity in AI Applications": "关于在人工智能应用中定义、衡量和利用创造力的探索"
 }
