@@ -239,5 +239,10 @@
  "Local Indexing to reduce tool calling and token usage": "通过本地索引减少工具调用和令牌使用",
  "Programmable pigments: Photochromic nanoparticle inks for rewritable tattoos": "可编程颜料：用于可重写纹身的光致变色纳米粒子墨水",
  "HashiCorp archives the Boundary open source repo": "HashiCorp 将 Boundary 开源代码库归档",
- "Qt An E2EE post-quantum messenger core in Rust (10k connections on 124MB RAM": "Qt 一个用 Rust 编写的端到端加密（E2EE）后量子通信核心（124MB 内存下支持 10k 个连接）"
+ "Qt An E2EE post-quantum messenger core in Rust (10k connections on 124MB RAM": "Qt 一个用 Rust 编写的端到端加密（E2EE）后量子通信核心（124MB 内存下支持 10k 个连接）",
+ "Fingerprints are the new cookies": "指纹是新一代的“cookie”",
+ "Passkeys are a trap": "通行密钥是个陷阱",
+ "Chapter 1 of \"Ways of Seeing\" by John Berger (1972)": "约翰·伯格所著《看的方式》（1972年）第一章",
+ "Vectorized CLZ and CTZ": "向量化CLZ和CTZ",
+ "Show HN: BraiNOTES, handwritten notes on your lecture PDFs in a browser tab": "Show HN：BraiNOTES，在浏览器标签页中直接在讲座PDF上添加手写笔记"
 }
