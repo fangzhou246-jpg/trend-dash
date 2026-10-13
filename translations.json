@@ -357,5 +357,6 @@
  "Strengthening our defenses against distillation attacks": "加强防御措施，抵御蒸馏攻击",
  "AI Models Can Provably Hide Arbitrary Capabilities": "AI 模型能够以可证明的方式隐藏任意能力",
  "A look at OpenAI’s math that’s claimed computes faster Fourier transforms": "深入解析OpenAI声称能更快计算傅里叶变换的数学原理",
- "The Dock on Mac, from OS 10 to macOS 27": "Mac 上的 Dock，从 OS 10 到 macOS 27"
+ "The Dock on Mac, from OS 10 to macOS 27": "Mac 上的 Dock，从 OS 10 到 macOS 27",
+ "Show HN: SolidCraft – Open-Source Parametric CAD in Rust (With MCP Support)": "Show HN：SolidCraft——基于Rust语言的开源参数化CAD（支持MCP）"
 }
