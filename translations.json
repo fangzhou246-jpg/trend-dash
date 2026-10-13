@@ -370,5 +370,10 @@
  "Claude Code, Codex, Copilot, Pi, OpenCode, Gemini, and Prime Agent versions of Poteto's pstack. Rigorous agent workflows with Cursor primitives translated for other harnesses.": "Poteto 的 pstack 的 Claude Code、Codex、Copilot、Pi、OpenCode、Gemini 和 Prime Agent 版本。采用 Cursor 基本元素构建的严谨代理工作流，已适配其他测试框架。",
  "Were Software Engineers blue-collar workers all along?": "软件工程师一直都是蓝领工人吗？",
  "Hittite royal archive found in Turkey": "在土耳其发现赫梯王室档案",
- "Crypto thieves sell hardware wallets with secret eSIM": "加密货币窃贼出售内置秘密eSIM的硬件钱包"
+ "Crypto thieves sell hardware wallets with secret eSIM": "加密货币窃贼出售内置秘密eSIM的硬件钱包",
+ "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.": "针对 Claude Code、Codex、GitHub Copilot、Cursor、Factory Droid 和 Pi 的编辑图设计。共 44 种图表类型。独立的 HTML + SVG 文件。无阴影。无 Mermaid 生成的冗余代码。",
+ "11 year old unsoundness bugs found in Rust borrow checker": "在Rust借用检查器中发现了存在11年的不正确性漏洞",
+ "Show HN: Use your OpenAI subscription to create audiobooks": "Show HN：利用您的 OpenAI 订阅创建有声读物",
+ "CFTC Staff Were Told to Retract Analysis of Suspicious Oil Trades": "CFTC工作人员被要求撤回对可疑原油交易的分析",
+ "AI models may soon self-replicate without access to data centers": "人工智能模型或许很快就能在无需访问数据中心的情况下实现自我复制"
 }
