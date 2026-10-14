@@ -437,5 +437,22 @@
  "Do Frameworks Matter Anymore?": "框架现在还有意义吗？",
  "Felix Rieseberg Homepage": "菲利克斯·里泽伯格主页",
  "Sound – Bartosz Ciechanowski (2022)": "《声音》——巴托什·切哈诺夫斯基（2022）",
- "A Strongly Aperiodic Monotile in Three Dimensions": "一种三维强非周期单瓷砖"
+ "A Strongly Aperiodic Monotile in Three Dimensions": "一种三维强非周期单瓷砖",
+ "Anthropic conjures threat that doesn't exist yet to stoke fears of AI apocalypse": "Anthropic 凭空捏造一种尚不存在的威胁，以此煽动人们对人工智能末日的恐惧",
+ "Kcgi – minimal CGI and FastCGI library for C/C++": "Kcgi – 适用于 C/C++ 的精简版 CGI 和 FastCGI 库",
+ "Artificiality's First Exam: An LLM-Referenced C-test for Supraintelligence": "“人工性”的首场考试：一项基于大语言模型（LLM）的C型测试，用于评估超智能",
+ "The Silent Failures in Agentic Data Science": "“以代理为中心”的数据科学中的隐性失败",
+ "ClawLoop: Self-Improving Agents via Harness-Native Training Loop": "ClawLoop：基于原生训练循环的自我提升智能体",
+ "Correction Training for Diffusion Models": "扩散模型的校正训练",
+ "Long-Horizon-Terminal-Bench 2.0: Automating Diverse Task Construction and Measuring Sustained Agent Progress": "Long-Horizon-Terminal-Bench 2.0：实现多样化任务构建的自动化及持续代理进展的衡量",
+ "VETNET: Assembling Benchmark Datasets for AI-Driven Veterinary Innovation": "VETNET：构建用于人工智能驱动的兽医创新的基准数据集",
+ "Unconstrained CTI-REALM with Open-Weights": "具有开放权重的无约束CTI-REALM",
+ "Visualizing the World Model in an Agent's Value Function": "在智能体的价值函数中可视化世界模型",
+ "Cross-Modal Latent Influence: Patch-Level Training Sample Attribution for Vision-Language Models": "跨模态潜在影响：视觉-语言模型的补丁级训练样本归因",
+ "Should SLMs be in the Driver's Seat? A Study of Local Models as Interpreters in Cloud-Written Agent Programs": "SLM 应该掌握主导权吗？关于本地模型在基于云的代理程序中充当解释器的研究",
+ "Harness^2: Recursive Agent Harnessing for an Open World": "Harness^2：面向开放世界的递归智能体驯化",
+ "Echo: Error-Compensated 4-Bit Tensor-Parallel Communication for LLM Training and Inference": "Echo：适用于大型语言模型（LLM）训练与推理的误差补偿型4位张量并行通信",
+ "Controllable Diverse Sampling through Pullback Directions": "通过回拉方向实现可控的多样化采样",
+ "ConicFlow: constrained Inference-time optimal control for flow matching models": "ConicFlow：针对流量匹配模型的受约束推理时最优控制",
+ "Which Metadata Matters for LLM Tool Selection in MCP? Evidence from Controlled Factor-Level Interventions": "在MCP中，哪些元数据对大语言模型（LLM）工具的选择至关重要？来自受控因子层面干预的研究证据"
 }
