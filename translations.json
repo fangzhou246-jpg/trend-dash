@@ -458,5 +458,8 @@
  "AOSP Source Releases Are So Late Developers Disassemble Libraries to Report Bugs": "AOSP 源代码发布迟迟未到，以至于开发者不得不反编译库来报告 bug",
  "Arena Allocators in C": "C语言中的内存池分配器",
  "Why Sweden is abandoning its cashless society": "瑞典为何放弃建设无现金社会",
- "The People's Bookshelf (Riga, Latvia)": "“人民书架”（拉脱维亚里加）"
+ "The People's Bookshelf (Riga, Latvia)": "“人民书架”（拉脱维亚里加）",
+ "Iosevka is an open-source, sans-serif and slab-serif, monospace font": "Iosevka 是一款开源的、兼具无衬线和粗衬线风格的等宽字体",
+ "Same Job, Two Engines: InnoDB and Iceberg Internals": "同一任务，两种引擎：InnoDB 与 Iceberg 的内部机制",
+ "Strafe: A new open-source, E2E Encrypted, and federated alternative to Discord": "Strafe：一款全新的开源、端到端加密且支持联合架构的 Discord 替代方案"
 }
