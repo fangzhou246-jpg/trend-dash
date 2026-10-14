@@ -476,5 +476,8 @@
  "Who Taught the Machines Mathematics?": "是谁教会机器数学的？",
  "Why is every rationalist blog post way too long?": "为什么每个理性主义者的博客文章都写得这么长？",
  "Show HN: A guided 3D Leonardo da Vinci museum, built in code": "Show HN：一个由代码构建的、带导览功能的莱昂纳多·达·芬奇3D博物馆",
- "Ask HN: What is the current trajectory of a senior engineer?": "向 HN 提问：高级工程师目前的职业发展轨迹是怎样的？"
+ "Ask HN: What is the current trajectory of a senior engineer?": "向 HN 提问：高级工程师目前的职业发展轨迹是怎样的？",
+ "Pg_vectorsearch: An index that is faster than pgvector's IVFFlat and HNSW": "Pg_vectorsearch：一种比 pgvector 的 IVFFlat 和 HNSW 更快的索引",
+ "TV4 postpones show after AI agent erases edited material": "TV4因AI助手删除了已编辑的内容而推迟节目播出",
+ "FCSS 2: Utility CSS that reads like CSS": "FCSS 2：读起来像 CSS 的实用 CSS"
 }
