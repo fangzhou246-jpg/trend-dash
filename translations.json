@@ -463,5 +463,18 @@
  "Same Job, Two Engines: InnoDB and Iceberg Internals": "同一任务，两种引擎：InnoDB 与 Iceberg 的内部机制",
  "Strafe: A new open-source, E2E Encrypted, and federated alternative to Discord": "Strafe：一款全新的开源、端到端加密且支持联合架构的 Discord 替代方案",
  "What agents mean for Rust (and vice versa)": "代理对Rust意味着什么（反之亦然）",
- "How to Select an Experiment": "如何选择一个实验"
+ "How to Select an Experiment": "如何选择一个实验",
+ "SwiftUI agent skill for Claude Code, Codex, and other AI tools.": "适用于 Claude Code、Codex 及其他 AI 工具的 SwiftUI 代理技能。",
+ "Ghidra is a software reverse engineering (SRE) framework": "Ghidra 是一个软件逆向工程（SRE）框架",
+ "Agent erased full season of \"The Challenge Swe\": \"Hundreds of days of work gone\"": "经纪人删除了《The Challenge Swe》整季内容：“数百天的工作付诸东流”",
+ "Show HN: Building an LLM from Scratch in TypeScript": "Show HN：使用 TypeScript 从零开始构建一个大型语言模型",
+ "I let an AI run my startup for a week": "我让人工智能管理我的初创公司一周",
+ "Pulsar at ESUG 2026 (new Smalltalk IDE)": "Pulsar 亮相 ESUG 2026（新款 Smalltalk 集成开发环境）",
+ "AI Laser Locking for Quantum Computers: How QuEra Automates It": "量子计算机的AI激光锁定：QuEra如何实现自动化",
+ "Amazon pushes up prices across the Internet": "亚马逊推高了整个互联网上的价格",
+ "Who Is Planting Backdoors in Ledger Crypto Wallets?": "是谁在Ledger加密货币钱包中植入了后门？",
+ "Who Taught the Machines Mathematics?": "是谁教会机器数学的？",
+ "Why is every rationalist blog post way too long?": "为什么每个理性主义者的博客文章都写得这么长？",
+ "Show HN: A guided 3D Leonardo da Vinci museum, built in code": "Show HN：一个由代码构建的、带导览功能的莱昂纳多·达·芬奇3D博物馆",
+ "Ask HN: What is the current trajectory of a senior engineer?": "向 HN 提问：高级工程师目前的职业发展轨迹是怎样的？"
 }
