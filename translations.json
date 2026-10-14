@@ -461,5 +461,7 @@
  "The People's Bookshelf (Riga, Latvia)": "“人民书架”（拉脱维亚里加）",
  "Iosevka is an open-source, sans-serif and slab-serif, monospace font": "Iosevka 是一款开源的、兼具无衬线和粗衬线风格的等宽字体",
  "Same Job, Two Engines: InnoDB and Iceberg Internals": "同一任务，两种引擎：InnoDB 与 Iceberg 的内部机制",
- "Strafe: A new open-source, E2E Encrypted, and federated alternative to Discord": "Strafe：一款全新的开源、端到端加密且支持联合架构的 Discord 替代方案"
+ "Strafe: A new open-source, E2E Encrypted, and federated alternative to Discord": "Strafe：一款全新的开源、端到端加密且支持联合架构的 Discord 替代方案",
+ "What agents mean for Rust (and vice versa)": "代理对Rust意味着什么（反之亦然）",
+ "How to Select an Experiment": "如何选择一个实验"
 }
