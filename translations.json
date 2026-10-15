@@ -558,5 +558,9 @@
  "Ask HN: CAD for wood working with LLM support?": "向 HN 提问：有没有支持 LLM 的木工 CAD 软件？",
  "LFM2.5-24B-A2B: Built for fast on-device agents": "LFM2.5-24B-A2B：专为高速设备端代理而设计",
  "your C is not standard C": "你的C语言不是标准C",
- "A new model for open source: closed to pull requests, open to remix": "开源的新模式：不接受拉取请求，但欢迎重新混编"
+ "A new model for open source: closed to pull requests, open to remix": "开源的新模式：不接受拉取请求，但欢迎重新混编",
+ "Things to know when you get cancer": "患癌后需要了解的事项",
+ "The Double Headed Stack Allocator": "双头栈分配器",
+ "Catch a Bird – I made it for my own sanity": "《捉鸟》——我创作这首歌是为了保持自己的理智",
+ "Capsem – a Rust hypervisor sandboxing AI agents in air-gapped Linux VMs": "Capsem——一个在物理隔离的Linux虚拟机中对AI代理进行沙箱隔离的Rust虚拟机监控程序"
 }
