@@ -553,5 +553,7 @@
  "Problems with the Rust Language": "Rust 语言存在的问题",
  "How I manage persistent Claude Code loops: Spool": "我如何处理顽固的克劳德代码循环：Spool",
  "Webster’s Dictionary: The pleasure of finding things out (2014)": "《韦氏词典：探索的乐趣》（2014）",
- "How Amazon pushes up prices all across the Internet": "亚马逊如何推高整个互联网上的价格"
+ "How Amazon pushes up prices all across the Internet": "亚马逊如何推高整个互联网上的价格",
+ "LFM2.5-24B-A2B: Built for Fast On-Device Agents": "LFM2.5-24B-A2B：专为高速设备端代理而设计",
+ "Ask HN: CAD for wood working with LLM support?": "向 HN 提问：有没有支持 LLM 的木工 CAD 软件？"
 }
