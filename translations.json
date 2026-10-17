@@ -735,5 +735,10 @@
  "I never authorized an integration that scans my secrets": "我从未授权过任何会扫描我的密钥的集成",
  "PGO or not PGO this is the dilemma. Step 2": "做PGO还是不做PGO，这是一个两难抉择。第二步",
  "The Bawdy Graffiti of Pompeii and Herculaneum (2017)": "《庞贝与赫库兰尼姆的淫秽涂鸦》（2017）",
- "Why harnesses matter for energy (and token) efficiency": "为什么线束对能源（和代币）效率至关重要"
+ "Why harnesses matter for energy (and token) efficiency": "为什么线束对能源（和代币）效率至关重要",
+ "Butlerian Jihad": "巴特勒式圣战",
+ "Nine-Inch Snails": "九英寸蜗牛",
+ "I built the RealWorld app in Lean 4": "我使用 Lean 4 开发了 RealWorld 应用程序",
+ "A week on the farm with Dylan Araps": "与迪伦·阿拉普斯共度的农场一周",
+ "Run Laya, the open-source Jev-compatible System-1 decision model, from Node.js / TypeScript via ONNX Runtime": "通过 ONNX Runtime，在 Node.js / TypeScript 环境中运行 Laya——这款开源的、与 Jev 兼容的 System-1 决策模型"
 }
