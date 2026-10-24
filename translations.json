@@ -1332,5 +1332,12 @@
  "AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist": "Z-Library上的一篇由AI辅助撰写的论文引用了一篇并不存在的TorrentFreak文章",
  "Hacker reverses Samsung TV, finds on-board AI listening OpenAI account suspended": "黑客对三星电视进行逆向工程，发现内置AI正在监听，OpenAI账号被暂停",
  "The Chalk and the Airplane": "《粉笔与飞机》",
- "Node.js Vulnerability Blog": "Node.js 漏洞博客"
+ "Node.js Vulnerability Blog": "Node.js 漏洞博客",
+ "TornadoVM 7 Enables GPU-Native Workloads from Java Applications": "TornadoVM 7 支持 Java 应用程序运行原生 GPU 工作负载",
+ "Google illegally cut down 250K trees in Finland for data center": "谷歌为建设数据中心在芬兰非法砍伐了25万棵树",
+ "Appreciating the beauty of all your body's scars and scratches": "欣赏你身上所有疤痕和划痕的美",
+ "I built a neural network using DOOM games": "我利用《DOOM》系列游戏构建了一个神经网络",
+ "Show HN: Autonomous root for Tcl Android TV via CVE-2022-22706": "Show HN：通过 CVE-2022-22706 为 Tcl Android TV 获取自主 root 权限",
+ "GPU-unlock: FP/BF16 instruction issue rate on Nvidia 3000's cards": "GPU-unlock：Nvidia 3000系列显卡上的FP/BF16指令发射率",
+ "Tiling Noise – Procedural GPU Patterns": "平铺噪声——基于程序生成的GPU图案"
 }
