@@ -1304,5 +1304,20 @@
  "A whirlwind tour of systemd-nspawn containers (2025)": "systemd-nspawn 容器速览 (2025)",
  "Rise of collagen-eating microbes may help explain gaps in the fossil record": "“食胶原微生物”的兴起或许有助于解释化石记录中的空白",
  "Securing our frontier model training environment": "保障我们的前沿模型训练环境安全",
- "German court calls Google aerial imagery 'spying'": "德国法院称谷歌航拍图像属于“间谍活动”"
+ "German court calls Google aerial imagery 'spying'": "德国法院称谷歌航拍图像属于“间谍活动”",
+ "Twelve years of distributed SQLite": "SQLite分布式架构的十二年历程",
+ "How close can pure functional programming get to C?": "纯函数式编程能与C语言有多接近？",
+ "Dessa: Conversation Model trained only on speech": "Dessa：仅基于语音训练的对话模型",
+ "A practical guide to AI image generation, from diffusion to agents": "人工智能图像生成的实用指南：从扩散到智能体",
+ "The Best Monopoly Strategy, Tested on 300M Games [video]": "经过3亿局游戏验证的《大富翁》最佳策略 [视频]",
+ "The Quake Fan who built the map editor everybody uses": "那位制作了大家都在用的地图编辑器的《雷神之锤》粉丝",
+ "One Man's Pan Am 747 Replica [video]": "一位男子打造的泛美航空747复刻机 [视频]",
+ "C vs. C#: racing VLC's Gaussian blur": "C 与 C#：VLC 高斯模糊性能对比",
+ "How Block Blast harvests its players for ad money": "《Block Blast》如何利用玩家赚取广告收入",
+ "The past, present, and future share a show floor at Pinball Expo 2026": "在2026年弹珠机博览会上，过去、现在与未来同台亮相",
+ "UUIDv7: Timestamps aren’t time-ordered and other oddities": "UUIDv7：时间戳并非按时间顺序排列，以及其他异常现象",
+ "Apple Security Research Device": "苹果安全研究设备",
+ "Alzheimer's breakthrough: 2 hrs of sleep restored without clearing brain plaques": "阿尔茨海默病研究取得突破：无需清除脑部斑块即可恢复2小时睡眠",
+ "How is music possible": "音乐是如何产生的？",
+ "Evolving Threat: http2shell is an RCE in Node, Python, and more": "不断演变的威胁：http2shell 是 Node、Python 等语言中的一种远程代码执行漏洞"
 }
