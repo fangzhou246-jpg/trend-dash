@@ -1319,5 +1319,18 @@
  "Apple Security Research Device": "苹果安全研究设备",
  "Alzheimer's breakthrough: 2 hrs of sleep restored without clearing brain plaques": "阿尔茨海默病研究取得突破：无需清除脑部斑块即可恢复2小时睡眠",
  "How is music possible": "音乐是如何产生的？",
- "Evolving Threat: http2shell is an RCE in Node, Python, and more": "不断演变的威胁：http2shell 是 Node、Python 等语言中的一种远程代码执行漏洞"
+ "Evolving Threat: http2shell is an RCE in Node, Python, and more": "不断演变的威胁：http2shell 是 Node、Python 等语言中的一种远程代码执行漏洞",
+ "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings": "一种用于多阶段安全审计的编码代理技能，其审计结果经过独立验证且可机读",
+ "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork": "一个开源插件仓库，主要供知识工作者在 Claude Cowork 中使用",
+ "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.": "将任何代码库（包括其文档、SQL 模式、配置文件和 PDF 文件）转换为可查询的知识图谱。一款适用于 Claude Code、Cursor、Codex 和 Gemini CLI 的 /graphify 技能：本地确定性 AST 解析，每条边均附有说明，无需向量存储。",
+ "A high-throughput and memory-efficient inference and serving engine for LLMs": "一款面向大型语言模型（LLMs）的高吞吐量、内存高效推理解析与服务引擎",
+ "I Don't Understand Quantum Physics (2018)": "《我不懂量子物理》（2018）",
+ "Physicists trap a single antimatter particle for a month": "物理学家将一个反物质粒子囚禁了一个月",
+ "Around a dozen banking apps began specifically permitting GrapheneOS": "约有十几个银行应用开始专门支持GrapheneOS",
+ "How to run a city builder on 16 MHz": "如何在16 MHz下运行一款城市建设游戏",
+ "Node2Shell evolves to HTTP2Shell, blast radius affects many HTTP libs and apps": "Node2Shell 演变为 HTTP2Shell，其影响范围波及众多 HTTP 库和应用程序",
+ "AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist": "Z-Library上的一篇由AI辅助撰写的论文引用了一篇并不存在的TorrentFreak文章",
+ "Hacker reverses Samsung TV, finds on-board AI listening OpenAI account suspended": "黑客对三星电视进行逆向工程，发现内置AI正在监听，OpenAI账号被暂停",
+ "The Chalk and the Airplane": "《粉笔与飞机》",
+ "Node.js Vulnerability Blog": "Node.js 漏洞博客"
 }
