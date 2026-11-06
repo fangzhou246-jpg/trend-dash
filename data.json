@@ -1,12 +1,12 @@
 {
- "updated_at": "2026-11-06 20:37（北京时间）",
+ "updated_at": "2026-11-07 03:47（北京时间）",
  "github": [
   {
    "name": "thedotmack/claude-mem",
    "url": "https://github.com/thedotmack/claude-mem",
    "desc": "每个代理跨会话的持久上下文——记录代理在会话期间的所有操作，通过人工智能进行压缩，并将相关上下文注入到未来的会话中。支持 Claude Code、OpenClaw、Codex、Gemini、Hermes、Copilot、OpenCode 等更多工具",
    "lang": "TypeScript",
-   "stars": "113781",
+   "stars": "113929",
    "gain": "+9,318",
    "desc_en": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More"
   },
@@ -15,7 +15,7 @@
    "url": "https://github.com/Donchitos/Claude-Code-Game-Studios",
    "desc": "将Claude Code打造为一家完整的游戏开发工作室——拥有49个AI代理、72项工作流技能，以及一套完全模拟真实工作室层级结构的协调系统。",
    "lang": "Shell",
-   "stars": "35889",
+   "stars": "36049",
    "gain": "+6,685",
    "desc_en": "Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy."
   },
@@ -24,7 +24,7 @@
    "url": "https://github.com/pingdotgg/t3code",
    "desc": "",
    "lang": "TypeScript",
-   "stars": "49001",
+   "stars": "49458",
    "gain": "+16,235"
   },
   {
@@ -32,7 +32,7 @@
    "url": "https://github.com/max-sixty/worktrunk",
    "desc": "Worktrunk 是一款用于管理 Git 工作树的命令行工具（CLI），专为并行 AI 代理工作流而设计",
    "lang": "Rust",
-   "stars": "11727",
+   "stars": "11775",
    "gain": "+1,802",
    "desc_en": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows"
   },
@@ -41,7 +41,7 @@
    "url": "https://github.com/Nutlope/hallmark",
    "desc": "适用于 Claude Code、Cursor 和 Codex 的反 AI 垃圾内容设计技巧。",
    "lang": "CSS",
-   "stars": "49221",
+   "stars": "49480",
    "gain": "+6,994",
    "desc_en": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex."
   },
@@ -50,7 +50,7 @@
    "url": "https://github.com/anthropics/skills",
    "desc": "Agent Skills 的公开仓库",
    "lang": "Python",
-   "stars": "187985",
+   "stars": "188117",
    "gain": "+3,072",
    "desc_en": "Public repository for Agent Skills"
   },
@@ -59,7 +59,7 @@
    "url": "https://github.com/milind-soni/OpenMausBot",
    "desc": "一款开源的 Grok Bot 替代方案，附带可供机器人使用的虚拟机",
    "lang": "TypeScript",
-   "stars": "14318",
+   "stars": "15004",
    "gain": "+5,580",
    "desc_en": "Open-source Grok Bot alternative with a virtual machine that bots can use"
   },
@@ -68,7 +68,7 @@
    "url": "https://github.com/pbakaus/impeccable",
    "desc": "您编码代理的设计语言。以精益求精和大胆创新的方式进行指导，通过批评与审核进行复盘，在AI代码发布前剔除其中的疏漏。",
    "lang": "Rust",
-   "stars": "104387",
+   "stars": "104673",
    "gain": "+9,303",
    "desc_en": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships."
   },
@@ -77,7 +77,7 @@
    "url": "https://github.com/obra/superpowers",
    "desc": "一套行之有效的代理技能框架与软件开发方法论。",
    "lang": "Shell",
-   "stars": "313327",
+   "stars": "313522",
    "gain": "+5,131",
    "desc_en": "An agentic skills framework & software development methodology that works."
   },
@@ -86,7 +86,7 @@
    "url": "https://github.com/HKUDS/DeepTutor",
    "desc": "DeepTutor：终身个性化辅导。https://deeptutor.info/。",
    "lang": "Python",
-   "stars": "55744",
+   "stars": "55874",
    "gain": "+6,229",
    "desc_en": "DeepTutor: Lifelong Personalized Tutoring.https://deeptutor.info/."
   },
@@ -95,7 +95,7 @@
    "url": "https://github.com/hyprwm/Hyprland",
    "desc": "Hyprland 是一款独立的、高度可定制的、动态平铺式 Wayland 合成器，且在视觉效果上毫不妥协。",
    "lang": "C++",
-   "stars": "40409",
+   "stars": "40433",
    "gain": "+1,371",
    "desc_en": "Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn't sacrifice on its looks."
   },
@@ -104,7 +104,7 @@
    "url": "https://github.com/jakubkrehel/skills",
    "desc": "一系列有助于您构建出色界面的代理技能。",
    "lang": "Markdown",
-   "stars": "11173",
+   "stars": "11244",
    "gain": "+1,840",
    "desc_en": "A collection of agent skills that help you build great interfaces."
   },
@@ -113,7 +113,7 @@
    "url": "https://github.com/calesthio/OpenMontage",
    "desc": "全球首个开源的基于智能体的视频制作系统。包含12条制作流程、100多种工具以及700多个智能体技能和制作知识文件。将您的AI编程助手转变为一个完整的视频制作工作室。",
    "lang": "Python",
-   "stars": "77462",
+   "stars": "77622",
    "gain": "+4,132",
    "desc_en": "World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio."
   },
@@ -122,7 +122,7 @@
    "url": "https://github.com/The-PR-Agent/pr-agent",
    "desc": "🚀 PR Agent：首款开源 PR 审阅工具。该项目并非 Qodo 的免费版本。",
    "lang": "Python",
-   "stars": "15205",
+   "stars": "15266",
    "gain": "+1,355",
    "desc_en": "🚀 PR Agent: The Original Open-Source PR Reviewer. This project is not the Qodo free tier."
   },
@@ -131,7 +131,7 @@
    "url": "https://github.com/nightly-labs/openbot",
    "desc": "一个以本地优先为理念的桌面工作区，专为持久化AI团队成员设计。通过专用工作区、任务队列、文件共享、浏览器控制以及智能体间协作，运行Codex、Claude和Grok。",
    "lang": "TypeScript",
-   "stars": "5921",
+   "stars": "6010",
    "gain": "+2,085",
    "desc_en": "A local-first desktop workspace for persistent AI teammates. Run Codex, Claude, and Grok with dedicated workspaces, task queues, file sharing, browser control, and agent-to-agent collaboration."
   },
@@ -140,7 +140,7 @@
    "url": "https://github.com/D4Vinci/Scrapling",
    "desc": "🕷️ 最棒的网页抓取框架，从单次请求到全面爬取，应有尽有！别害羞，快来加入吧：https://discord.gg/EMgGbDceNQand 关注这里获取每日技巧和窍门：https://x.com/Scrapling_dev",
    "lang": "Python",
-   "stars": "98584",
+   "stars": "98762",
    "gain": "+7,487",
    "desc_en": "🕷️ The BEST Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here:https://discord.gg/EMgGbDceNQand follow here for daily tips and tricks:https://x.com/Scrapling_dev"
   },
@@ -149,7 +149,7 @@
    "url": "https://github.com/multica-ai/andrej-karpathy-skills",
    "desc": "一个用于改进 Claude Code 行为的 CLAUDE.md 文件，该文件源自 Andrej Karpathy 对大型语言模型（LLM）编码陷阱的观察。",
    "lang": "",
-   "stars": "230092",
+   "stars": "230229",
    "gain": "+3,713",
    "desc_en": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls."
   },
@@ -158,602 +158,603 @@
    "url": "https://github.com/shiyu-coder/Kronos",
    "desc": "Kronos：金融市场语言的基础模型",
    "lang": "Python",
-   "stars": "46997",
+   "stars": "47036",
    "gain": "+2,979",
    "desc_en": "Kronos: A Foundation Model for the Language of Financial Markets"
   }
  ],
  "world": [
   {
-   "title": "荷兰“理想主义”银行ASN封杀非谷歌版安卓系统，包括GrapheneOS",
-   "url": "https://github.com/PrivSec-dev/banking-apps-compat-report/issues/105",
-   "site": "github.com",
-   "points": 195,
+   "title": "美国联邦航空管理局（FAA）表示，将在2028年前逐步淘汰空中交通管制中的软盘",
+   "url": "https://www.reuters.com/world/us/us-faa-says-it-will-phase-out-floppy-disks-air-traffic-control-by-2028-2026-11-05/",
+   "site": "reuters.com",
+   "points": 151,
    "source": "Hacker News",
-   "title_en": "Dutch 'idealist' bank ASN blocks non-Google Android, including GrapheneOS"
+   "title_en": "US FAA says it will phase out floppy disks from air traffic control by 2028"
+  },
+  {
+   "title": "特斯拉将逐步停止Cybertruck的生产",
+   "url": "https://www.nbcnews.com/tech/tech-news/tesla-wind-cybertruck-production-years-poor-sales-markets-rcna607817",
+   "site": "nbcnews.com",
+   "points": 550,
+   "source": "Hacker News",
+   "title_en": "Tesla to wind down Cybertruck production"
+  },
+  {
+   "title": "使用 UEFI 进行裸机编程的第一步",
+   "url": "https://kevinboone.me/efitest_index.html",
+   "site": "kevinboone.me",
+   "points": 104,
+   "source": "Hacker News",
+   "title_en": "First steps in bare-metal programming using UEFI"
+  },
+  {
+   "title": "我们知道有1.5万个网站遭到感染。我们该如何通知他们？",
+   "url": "https://scotthelme.co.uk/we-know-15-579-websites-are-infected-how-do-we-tell-them/",
+   "site": "scotthelme.co.uk",
+   "points": 64,
+   "source": "Hacker News",
+   "title_en": "We know 15k websites are infected. how do we tell them?"
+  },
+  {
+   "title": "Perplexity 推出面向工作场景的 AI 代理",
+   "url": "https://www.perplexity.ai/en-GB/hub/blog/teammates-are-agents-for-complex-ongoing-work",
+   "site": "perplexity.ai",
+   "points": 42,
+   "source": "Hacker News",
+   "title_en": "Perplexity launches AI agents for work"
+  },
+  {
+   "title": "Gemini Omni 1.2 Flash",
+   "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
+   "site": "blog.google",
+   "points": 245,
+   "source": "Hacker News"
   },
   {
    "title": "Blender 的用户界面和运行时：比 GPUI 快得多",
    "url": "https://github.com/ppmpreetham/BUI",
    "site": "github.com",
-   "points": 302,
+   "points": 596,
    "source": "Hacker News",
    "title_en": "Blender's UI and Runtime: Much Faster Than GPUI"
   },
   {
-   "title": "Claude Code 会将您的电子邮件地址发送给网站",
-   "url": "https://github.com/anthropics/claude-code/issues/107757",
+   "title": "Rune：一款专为 macOS、Windows、Linux 和 Web 设计的、基于原生 GPU 渲染的 Rust UI 框架",
+   "url": "https://github.com/anomalyco/rune",
    "site": "github.com",
-   "points": 1249,
+   "points": 93,
    "source": "Hacker News",
-   "title_en": "Claude Code sends your email address to websites"
+   "title_en": "Rune: A native GPU-rendered Rust UI framework for macOS, Windows, Linux and web"
+  },
+  {
+   "title": "《Size-It-Up》（游戏）",
+   "url": "https://magnitudle.com/size-it-up",
+   "site": "magnitudle.com",
+   "points": 30,
+   "source": "Hacker News",
+   "title_en": "Size-It-Up (Game)"
+  },
+  {
+   "title": "Memorilla：面向大型语言模型（LLM）的潜在语义记忆",
+   "url": "https://arxiv.org/abs/2610.21375",
+   "site": "arxiv.org",
+   "points": 28,
+   "source": "Hacker News",
+   "title_en": "Memorilla: Latent Semantic Memory for LLMs"
+  },
+  {
+   "title": "我收到的第一封也是最后一封电报是丽贝卡·韦斯特发来的",
+   "url": "https://thelampmagazine.com/blog/rebecca-wests-nightingale",
+   "site": "thelampmagazine.com",
+   "points": 6,
+   "source": "Hacker News",
+   "title_en": "My first and last telegram was from Rebecca West"
+  },
+  {
+   "title": "《Deus Ex》",
+   "url": "https://www.filfre.net/2026/11/deus-ex/",
+   "site": "filfre.net",
+   "points": 262,
+   "source": "Hacker News",
+   "title_en": "Deus Ex"
+  },
+  {
+   "title": "Devvm.dev：每个项目一台虚拟机",
+   "url": "https://devvm.dev/",
+   "site": "devvm.dev",
+   "points": 28,
+   "source": "Hacker News",
+   "title_en": "Devvm.dev: One VM for every project"
+  },
+  {
+   "title": "40C3 halfnarp – 提交演讲偏好以协助安排日程",
+   "url": "https://halfnarp.events.ccc.de",
+   "site": "halfnarp.events.ccc.de",
+   "points": 12,
+   "source": "Hacker News",
+   "title_en": "40C3 halfnarp – Submit talk preferences to aid scheduling"
+  },
+  {
+   "title": "Firecracker VM 逃脱：PwnEscape 第二部分",
+   "url": "https://pwn.ai/blog/firecracker-escape",
+   "site": "pwn.ai",
+   "points": 5,
+   "source": "Hacker News",
+   "title_en": "Firecracker VM Escape: PwnEscape Part 2"
+  },
+  {
+   "title": "PyLings：通过练习掌握Python",
+   "url": "https://github.com/thesayfulla/pylings",
+   "site": "github.com",
+   "points": 18,
+   "source": "Hacker News",
+   "title_en": "PyLings: Solve Exercises and Learn Python"
+  },
+  {
+   "title": "《零点时刻：一战期间，读时关乎生存与战略》（2014）",
+   "url": "https://www.laphamsquarterly.org/roundtable/zero-hour",
+   "site": "laphamsquarterly.org",
+   "points": 77,
+   "source": "Hacker News",
+   "title_en": "Zero Hour: Telling time was a matter of survival and strategy during WWI (2014)"
+  },
+  {
+   "title": "《Lippitt-Knoster 实践指南》（复杂项目管理现场笔记）",
+   "url": "https://sharedphysics.com/lippitt-knoster-in-practice-field-notes-for-managing-complex-projects/",
+   "site": "sharedphysics.com",
+   "points": 44,
+   "source": "Hacker News",
+   "title_en": "Lippitt-Knoster in Practice (Field Notes for Managing Complex Projects)"
+  },
+  {
+   "title": "餐厅外卖支付信息窃取活动",
+   "url": "https://www.infohawk.com/news/2026-11-05-scamwich-restaurant-skimming",
+   "site": "infohawk.com",
+   "points": 4,
+   "source": "Hacker News",
+   "title_en": "Restaurant Delivery Payment-Skimming Campaign"
+  },
+  {
+   "title": "卡尔希法院败诉接连不断，因法官拒绝阻止该州赌博法的实施",
+   "url": "https://arstechnica.com/tech-policy/2026/11/kalshi-court-losses-pile-up-as-judges-refuse-to-block-state-gambling-laws/",
+   "site": "arstechnica.com",
+   "points": 69,
+   "source": "Hacker News",
+   "title_en": "Kalshi court losses pile up as judges refuse to block state gambling laws"
+  },
+  {
+   "title": "MTG-I2 首批图像",
+   "url": "https://www.eumetsat.int/mtg-i2-first-images",
+   "site": "eumetsat.int",
+   "points": 52,
+   "source": "Hacker News",
+   "title_en": "MTG-I2 First Images"
+  },
+  {
+   "title": "无懈可击的 UI-UX 技能 1.0.0",
+   "url": "https://github.com/smokeeaasd/flawless-ui-ux/releases/tag/v1.0.0",
+   "site": "github.com",
+   "points": 15,
+   "source": "Hacker News",
+   "title_en": "Flawless UI-UX Skill 1.0.0"
   },
   {
    "title": "超越生存极限：被困在巨型陷阱中的木蚁（2016）",
    "url": "https://jhr.pensoft.net/articles.php?id=9096",
    "site": "jhr.pensoft.net",
-   "points": 56,
+   "points": 143,
    "source": "Hacker News",
    "title_en": "Living beyond the limits of survival: wood ants trapped in a gigantic pitfall (2016)"
   },
   {
-   "title": "混蛋",
-   "url": "https://sshhole.com",
-   "site": "sshhole.com",
-   "points": 2766,
+   "title": "民主党人正针对SpaceXAI、META和苹果公司启动国会调查",
+   "url": "https://www.washingtonpost.com/technology/2026/11/06/after-courting-trump-corporate-america-faces-democratic-reckoning/",
+   "site": "washingtonpost.com",
+   "points": 16,
    "source": "Hacker News",
-   "title_en": "sshole"
+   "title_en": "Democrats launching congressional investigations into SpaceXAI, META and Apple"
+  },
+  {
+   "title": "Anthropic首次公开募股（IPO）的认购方认为其估值低至1.1万亿美元",
+   "url": "https://www.bloomberg.com/news/articles/2026-11-06/anthropic-ipo-valuation-expectations-pressured-after-ai-rout",
+   "site": "bloomberg.com",
+   "points": 75,
+   "source": "Hacker News",
+   "title_en": "Anthropic IPO buyers see valuation as low as $1.1T"
+  },
+  {
+   "title": "荷兰“理想主义”银行ASN封杀非谷歌版安卓系统，包括GrapheneOS",
+   "url": "https://github.com/PrivSec-dev/banking-apps-compat-report/issues/105",
+   "site": "github.com",
+   "points": 584,
+   "source": "Hacker News",
+   "title_en": "Dutch 'idealist' bank ASN blocks non-Google Android, including GrapheneOS"
+  },
+  {
+   "title": "Replit 利用微虚拟机（microVMs）重构了其沙箱引擎",
+   "url": "https://frontier.replit.com/sandbox-engine-microvms-part-1/",
+   "site": "frontier.replit.com",
+   "points": 3,
+   "source": "Hacker News",
+   "title_en": "Replit rebuilt its sandbox engine with microVMs"
+  },
+  {
+   "title": "可编程 GeoDNS：从 AWS 迁移至 Bunny",
+   "url": "https://vincent.bernat.ch/en/blog/2026-bunny-geodns",
+   "site": "vincent.bernat.ch",
+   "points": 41,
+   "source": "Hacker News",
+   "title_en": "Scriptable GeoDNS: Leaving AWS for Bunny"
   },
   {
    "title": "Kugelblitz——一款原生Mac版的Google Earth替代软件",
    "url": "https://apps.metaebene.me/en/kugelblitz",
    "site": "apps.metaebene.me",
-   "points": 119,
+   "points": 229,
    "source": "Hacker News",
    "title_en": "Kugelblitz – Mac-Native Google Earth Alternative"
-  },
-  {
-   "title": "我们开发开源功能开关服务器已有11年",
-   "url": "https://github.com/Unleash/unleash",
-   "site": "github.com",
-   "points": 12,
-   "source": "Hacker News",
-   "title_en": "We've built an open-source feature flag server for 11 years"
-  },
-  {
-   "title": "MS Paint 远程代码执行漏洞",
-   "url": "https://www.cve.org/CVERecord?id=CVE-2026-83844",
-   "site": "cve.org",
-   "points": 575,
-   "source": "Hacker News",
-   "title_en": "MS Paint Remote Code Execution Vulnerability"
-  },
-  {
-   "title": "从 Linux 到维基百科：志愿者如何构建互联网",
-   "url": "https://thereader.mitpress.mit.edu/from-linux-to-wikipedia-how-volunteers-build-the-internet/",
-   "site": "thereader.mitpress.mit.edu",
-   "points": 136,
-   "source": "Hacker News",
-   "title_en": "From Linux to Wikipedia: How Volunteers Build the Internet"
-  },
-  {
-   "title": "Pwn.college",
-   "url": "https://pwn.college/",
-   "site": "pwn.college",
-   "points": 185,
-   "source": "Hacker News"
-  },
-  {
-   "title": "塔塔汽车应用中的硬编码凭据及其他问题",
-   "url": "https://www.cert-in.org.in/s2cMainServlet?pageid=PUBVLNOTES01&VLCODE=CIVN-2026-0537",
-   "site": "cert-in.org.in",
-   "points": 46,
-   "source": "Hacker News",
-   "title_en": "Hardcoded credentials and other issues in Tata Motors App"
-  },
-  {
-   "title": "英伟达 Kubernetes 引擎 (NVKE)",
-   "url": "https://github.com/dsx-ai-factory/nvke",
-   "site": "github.com",
-   "points": 93,
-   "source": "Hacker News",
-   "title_en": "Nvidia Kubernetes Engine (NVKE)"
-  },
-  {
-   "title": "“黑苹果”的重生",
-   "url": "https://www.naut.ca/blog/2026/11/05/the-hackintosh-reborn-with-ai/",
-   "site": "naut.ca",
-   "points": 335,
-   "source": "Hacker News",
-   "title_en": "The Hackintosh Reborn"
-  },
-  {
-   "title": "Inkling 2 小号",
-   "url": "https://thinkingmachines.ai/news/inkling-2-small/",
-   "site": "thinkingmachines.ai",
-   "points": 220,
-   "source": "Hacker News",
-   "title_en": "Inkling 2 Small"
-  },
-  {
-   "title": "一款多人坦克游戏，可摧毁来自OpenStreetMap的真实建筑",
-   "url": "https://worldstrike.fun/",
-   "site": "worldstrike.fun",
-   "points": 75,
-   "source": "Hacker News",
-   "title_en": "Multiplayer tanks that demolish real buildings from OpenStreetMap"
-  },
-  {
-   "title": "窗帘",
-   "url": "https://github.com/saragordic/window-sweaters",
-   "site": "github.com",
-   "points": 378,
-   "source": "Hacker News",
-   "title_en": "Window Sweaters"
-  },
-  {
-   "title": "英国将强制要求在招聘广告中披露薪资",
-   "url": "https://www.reuters.com/business/world-at-work/britain-make-salary-disclosure-job-ads-mandatory-2026-11-05/",
-   "site": "reuters.com",
-   "points": 278,
-   "source": "Hacker News",
-   "title_en": "Britain to make salary disclosure in job ads mandatory"
-  },
-  {
-   "title": "支持 GrapheneOS 的 Motorola Signature 27",
-   "url": "https://motorolanews.com/motorola-signature-27-2/",
-   "site": "motorolanews.com",
-   "points": 510,
-   "source": "Hacker News",
-   "title_en": "Motorola Signature 27 with GrapheneOS support"
-  },
-  {
-   "title": "Show HN：Firenook——用Rust实现的Firebase模拟器：写入速度提升40倍，内存占用减少10倍",
-   "url": "https://firenook.dev/",
-   "site": "firenook.dev",
-   "points": 138,
-   "source": "Hacker News",
-   "title_en": "Show HN: Firenook – Firebase emulators in Rust: 40× faster writes, 10× less RAM"
-  },
-  {
-   "title": "HN新项目发布：Rivet（YC W23）——在S3上扩展和协调代理",
-   "url": "https://github.com/rivet-dev/rivet",
-   "site": "github.com",
-   "points": 105,
-   "source": "Hacker News",
-   "title_en": "Launch HN: Rivet (YC W23) – Scale and Orchestrate Agents on S3"
-  },
-  {
-   "title": "真希望科技公司能更了解我",
-   "url": "https://rakhim.exotext.com/i-wish-tech-companies-knew-more-about-me",
-   "site": "rakhim.exotext.com",
-   "points": 467,
-   "source": "Hacker News",
-   "title_en": "I wish tech companies knew more about me"
-  },
-  {
-   "title": "《Servo》九月刊：<progress>、圆角矩形等",
-   "url": "https://servo.org/blog/2026/11/05/september-in-servo/",
-   "site": "servo.org",
-   "points": 250,
-   "source": "Hacker News",
-   "title_en": "September in Servo: <progress>, rounded rectangles, and more"
-  },
-  {
-   "title": "Show HN：一个花费约 2 万美元训练而成的不错的文本转图像模型（Apache 2.0 许可权重）",
-   "url": "https://www.linum.ai/field-notes/pjit-21k",
-   "site": "linum.ai",
-   "points": 244,
-   "source": "Hacker News",
-   "title_en": "Show HN: A decent text-to-image model trained for ~$20K (Apache 2.0 Weights)"
-  },
-  {
-   "title": "古巴人：Facebook明知故犯地发布AI深度伪造诈骗广告；文件显示其诈骗收入达160亿美元",
-   "url": "https://finance.yahoo.com/technology/ai/articles/mark-cuban-says-facebook-knowingly-213000020.html",
-   "site": "finance.yahoo.com",
-   "points": 387,
-   "source": "Hacker News",
-   "title_en": "Cuban: Facebook knowingly runs AI deepfake scam ads; docs say $16B fraud revenue"
-  },
-  {
-   "title": "MoofTCP——适用于 68k Mac 机的 MacTCP 现代替代方案",
-   "url": "https://github.com/matthewmrichter/mooftcp",
-   "site": "github.com",
-   "points": 55,
-   "source": "Hacker News",
-   "title_en": "MoofTCP – A modern replacement for MacTCP on 68k Macs"
-  },
-  {
-   "title": "我很难相信人工智能的研发是独具匠心的",
-   "url": "https://www.lesswrong.com/posts/DALNiKBjMGMF8grme/arjun-panickssery-s-shortform?commentId=fJtaHHHfx45tD7BSL",
-   "site": "lesswrong.com",
-   "points": 137,
-   "source": "Hacker News",
-   "title_en": "I struggle to believe that AI R&D is ingenious"
-  },
-  {
-   "title": "下载你最喜欢的YouTube视频",
-   "url": "https://criminallyvulgar.dev/you-should-absolutely-download-your-favourite-youtube-videos/",
-   "site": "criminallyvulgar.dev",
-   "points": 363,
-   "source": "Hacker News",
-   "title_en": "Download your favourite YouTube videos"
-  },
-  {
-   "title": "2026年App Store数据盘点：AI、定价、被弃用的应用",
-   "url": "https://obelisk.club/research/app-store-2026",
-   "site": "obelisk.club",
-   "points": 53,
-   "source": "Hacker News",
-   "title_en": "App Store 2026 in numbers: AI, pricing, abandoned apps"
-  },
-  {
-   "title": "Pangram Image 1.0",
-   "url": "https://www.pangram.com/blog/introducing-pangram-image-1-0",
-   "site": "pangram.com",
-   "points": 119,
-   "source": "Hacker News"
   }
  ],
  "china": [
   {
-   "title": "暴雪大暴雪 周六强度达巅峰",
-   "url": "https://www.baidu.com/s?wd=%E6%9A%B4%E9%9B%AA%E5%A4%A7%E6%9A%B4%E9%9B%AA%20%E5%91%A8%E5%85%AD%E5%BC%BA%E5%BA%A6%E8%BE%BE%E5%B7%85%E5%B3%B0",
-   "hot": "7809217",
+   "title": "一双“电动鞋”售价7999元",
+   "url": "https://www.baidu.com/s?wd=%E4%B8%80%E5%8F%8C%E2%80%9C%E7%94%B5%E5%8A%A8%E9%9E%8B%E2%80%9D%E5%94%AE%E4%BB%B77999%E5%85%83",
+   "hot": "7808098",
    "source": "百度热搜"
   },
   {
-   "title": "骨折乘客欲换下铺未果 官方声明",
-   "url": "https://www.baidu.com/s?wd=%E9%AA%A8%E6%8A%98%E4%B9%98%E5%AE%A2%E6%AC%B2%E6%8D%A2%E4%B8%8B%E9%93%BA%E6%9C%AA%E6%9E%9C%20%E5%AE%98%E6%96%B9%E5%A3%B0%E6%98%8E",
-   "hot": "7713878",
+   "title": "125台公交车退役电池卖了300万元",
+   "url": "https://www.baidu.com/s?wd=125%E5%8F%B0%E5%85%AC%E4%BA%A4%E8%BD%A6%E9%80%80%E5%BD%B9%E7%94%B5%E6%B1%A0%E5%8D%96%E4%BA%86300%E4%B8%87%E5%85%83",
+   "hot": "7712088",
    "source": "百度热搜"
   },
   {
    "title": "进博会如何连接世界",
    "url": "https://www.baidu.com/s?wd=%E8%BF%9B%E5%8D%9A%E4%BC%9A%E5%A6%82%E4%BD%95%E8%BF%9E%E6%8E%A5%E4%B8%96%E7%95%8C",
-   "hot": "7618789",
+   "hot": "7616609",
    "source": "百度热搜"
   },
   {
-   "title": "冯远征卸任北京人艺院长",
-   "url": "https://www.baidu.com/s?wd=%E5%86%AF%E8%BF%9C%E5%BE%81%E5%8D%B8%E4%BB%BB%E5%8C%97%E4%BA%AC%E4%BA%BA%E8%89%BA%E9%99%A2%E9%95%BF",
-   "hot": "7523574",
+   "title": "6城住户存款超3万亿",
+   "url": "https://www.baidu.com/s?wd=6%E5%9F%8E%E4%BD%8F%E6%88%B7%E5%AD%98%E6%AC%BE%E8%B6%853%E4%B8%87%E4%BA%BF",
+   "hot": "7522033",
    "source": "百度热搜"
   },
   {
-   "title": "103岁老奶奶不肯吃五角星饼干",
-   "url": "https://www.baidu.com/s?wd=103%E5%B2%81%E8%80%81%E5%A5%B6%E5%A5%B6%E4%B8%8D%E8%82%AF%E5%90%83%E4%BA%94%E8%A7%92%E6%98%9F%E9%A5%BC%E5%B9%B2",
-   "hot": "7424768",
-   "source": "百度热搜"
-  },
-  {
-   "title": "若失守1.5℃升温红线将酿成巨灾",
-   "url": "https://www.baidu.com/s?wd=%E8%8B%A5%E5%A4%B1%E5%AE%881.5%E2%84%83%E5%8D%87%E6%B8%A9%E7%BA%A2%E7%BA%BF%E5%B0%86%E9%85%BF%E6%88%90%E5%B7%A8%E7%81%BE",
-   "hot": "7330660",
-   "source": "百度热搜"
-  },
-  {
-   "title": "金鸡奖开幕式",
-   "url": "https://www.baidu.com/s?wd=%E9%87%91%E9%B8%A1%E5%A5%96%E5%BC%80%E5%B9%95%E5%BC%8F",
-   "hot": "7232671",
+   "title": "17岁职校生手搓充电宝 校长现场拍板",
+   "url": "https://www.baidu.com/s?wd=17%E5%B2%81%E8%81%8C%E6%A0%A1%E7%94%9F%E6%89%8B%E6%90%93%E5%85%85%E7%94%B5%E5%AE%9D%20%E6%A0%A1%E9%95%BF%E7%8E%B0%E5%9C%BA%E6%8B%8D%E6%9D%BF",
+   "hot": "7428909",
    "source": "百度热搜"
   },
   {
    "title": "女子带娃仅点6元豆芽连吃7碗米饭",
    "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%B8%A6%E5%A8%83%E4%BB%85%E7%82%B96%E5%85%83%E8%B1%86%E8%8A%BD%E8%BF%9E%E5%90%837%E7%A2%97%E7%B1%B3%E9%A5%AD",
-   "hot": "7143330",
+   "hot": "7333209",
    "source": "百度热搜"
   },
   {
-   "title": "这作业是一天都辅导不了了",
-   "url": "https://www.baidu.com/s?wd=%E8%BF%99%E4%BD%9C%E4%B8%9A%E6%98%AF%E4%B8%80%E5%A4%A9%E9%83%BD%E8%BE%85%E5%AF%BC%E4%B8%8D%E4%BA%86%E4%BA%86",
-   "hot": "7043810",
-   "source": "百度热搜"
-  },
-  {
-   "title": "金鸡奖开幕式女明星太会穿了",
-   "url": "https://www.baidu.com/s?wd=%E9%87%91%E9%B8%A1%E5%A5%96%E5%BC%80%E5%B9%95%E5%BC%8F%E5%A5%B3%E6%98%8E%E6%98%9F%E5%A4%AA%E4%BC%9A%E7%A9%BF%E4%BA%86",
-   "hot": "6946128",
-   "source": "百度热搜"
-  },
-  {
-   "title": "智慧教室会侵犯学生隐私系误读",
-   "url": "https://www.baidu.com/s?wd=%E6%99%BA%E6%85%A7%E6%95%99%E5%AE%A4%E4%BC%9A%E4%BE%B5%E7%8A%AF%E5%AD%A6%E7%94%9F%E9%9A%90%E7%A7%81%E7%B3%BB%E8%AF%AF%E8%AF%BB",
-   "hot": "6854050",
-   "source": "百度热搜"
-  },
-  {
-   "title": "女子模仿香妃爆火",
-   "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E6%A8%A1%E4%BB%BF%E9%A6%99%E5%A6%83%E7%88%86%E7%81%AB",
-   "hot": "6756857",
-   "source": "百度热搜"
-  },
-  {
-   "title": "赵丽颖王仁君拥抱",
-   "url": "https://www.baidu.com/s?wd=%E8%B5%B5%E4%B8%BD%E9%A2%96%E7%8E%8B%E4%BB%81%E5%90%9B%E6%8B%A5%E6%8A%B1",
-   "hot": "6659177",
-   "source": "百度热搜"
-  },
-  {
-   "title": "“缅北最严厉的父亲”来了",
-   "url": "https://www.baidu.com/s?wd=%E2%80%9C%E7%BC%85%E5%8C%97%E6%9C%80%E4%B8%A5%E5%8E%89%E7%9A%84%E7%88%B6%E4%BA%B2%E2%80%9D%E6%9D%A5%E4%BA%86",
-   "hot": "6570872",
-   "source": "百度热搜"
-  },
-  {
-   "title": "李标被遣返回国",
-   "url": "https://www.baidu.com/s?wd=%E6%9D%8E%E6%A0%87%E8%A2%AB%E9%81%A3%E8%BF%94%E5%9B%9E%E5%9B%BD",
-   "hot": "6467241",
+   "title": "圆通总裁潘水苗心疼儿子Tim工作辛苦",
+   "url": "https://www.baidu.com/s?wd=%E5%9C%86%E9%80%9A%E6%80%BB%E8%A3%81%E6%BD%98%E6%B0%B4%E8%8B%97%E5%BF%83%E7%96%BC%E5%84%BF%E5%AD%90Tim%E5%B7%A5%E4%BD%9C%E8%BE%9B%E8%8B%A6",
+   "hot": "7238488",
    "source": "百度热搜"
   },
   {
    "title": "美国股市为何暴跌",
    "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E8%82%A1%E5%B8%82%E4%B8%BA%E4%BD%95%E6%9A%B4%E8%B7%8C",
-   "hot": "6367235",
+   "hot": "7137213",
    "source": "百度热搜"
   },
   {
-   "title": "年轻人最强嘴替是一位中年大叔",
-   "url": "https://www.baidu.com/s?wd=%E5%B9%B4%E8%BD%BB%E4%BA%BA%E6%9C%80%E5%BC%BA%E5%98%B4%E6%9B%BF%E6%98%AF%E4%B8%80%E4%BD%8D%E4%B8%AD%E5%B9%B4%E5%A4%A7%E5%8F%94",
-   "hot": "6277286",
+   "title": "陈都灵发言 大气",
+   "url": "https://www.baidu.com/s?wd=%E9%99%88%E9%83%BD%E7%81%B5%E5%8F%91%E8%A8%80%20%E5%A4%A7%E6%B0%94",
+   "hot": "7045444",
    "source": "百度热搜"
   },
   {
-   "title": "武大回应网传学生诱骗同学至缅甸",
-   "url": "https://www.baidu.com/s?wd=%E6%AD%A6%E5%A4%A7%E5%9B%9E%E5%BA%94%E7%BD%91%E4%BC%A0%E5%AD%A6%E7%94%9F%E8%AF%B1%E9%AA%97%E5%90%8C%E5%AD%A6%E8%87%B3%E7%BC%85%E7%94%B8",
-   "hot": "6177765",
+   "title": "谷爱凌谈不要过度美化吃苦",
+   "url": "https://www.baidu.com/s?wd=%E8%B0%B7%E7%88%B1%E5%87%8C%E8%B0%88%E4%B8%8D%E8%A6%81%E8%BF%87%E5%BA%A6%E7%BE%8E%E5%8C%96%E5%90%83%E8%8B%A6",
+   "hot": "6951537",
    "source": "百度热搜"
   },
   {
-   "title": "电话手表进校园 别一禁了之",
-   "url": "https://www.baidu.com/s?wd=%E7%94%B5%E8%AF%9D%E6%89%8B%E8%A1%A8%E8%BF%9B%E6%A0%A1%E5%9B%AD%20%E5%88%AB%E4%B8%80%E7%A6%81%E4%BA%86%E4%B9%8B",
-   "hot": "6094773",
+   "title": "智慧教室会侵犯学生隐私系误读",
+   "url": "https://www.baidu.com/s?wd=%E6%99%BA%E6%85%A7%E6%95%99%E5%AE%A4%E4%BC%9A%E4%BE%B5%E7%8A%AF%E5%AD%A6%E7%94%9F%E9%9A%90%E7%A7%81%E7%B3%BB%E8%AF%AF%E8%AF%BB",
+   "hot": "6856359",
    "source": "百度热搜"
   },
   {
-   "title": "A股“东方”狂掀涨停潮",
-   "url": "https://www.baidu.com/s?wd=A%E8%82%A1%E2%80%9C%E4%B8%9C%E6%96%B9%E2%80%9D%E7%8B%82%E6%8E%80%E6%B6%A8%E5%81%9C%E6%BD%AE",
-   "hot": "5982456",
+   "title": "这到底是机器人还是真人",
+   "url": "https://www.baidu.com/s?wd=%E8%BF%99%E5%88%B0%E5%BA%95%E6%98%AF%E6%9C%BA%E5%99%A8%E4%BA%BA%E8%BF%98%E6%98%AF%E7%9C%9F%E4%BA%BA",
+   "hot": "6761337",
    "source": "百度热搜"
   },
   {
-   "title": "钟汉良 隐婚",
-   "url": "https://www.baidu.com/s?wd=%E9%92%9F%E6%B1%89%E8%89%AF%20%E9%9A%90%E5%A9%9A",
-   "hot": "5888697",
+   "title": "人民日报评女厕偷拍黑产",
+   "url": "https://www.baidu.com/s?wd=%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%E8%AF%84%E5%A5%B3%E5%8E%95%E5%81%B7%E6%8B%8D%E9%BB%91%E4%BA%A7",
+   "hot": "6666831",
    "source": "百度热搜"
   },
   {
-   "title": "糖葫芦堆料后涨到28元一根",
-   "url": "https://www.baidu.com/s?wd=%E7%B3%96%E8%91%AB%E8%8A%A6%E5%A0%86%E6%96%99%E5%90%8E%E6%B6%A8%E5%88%B028%E5%85%83%E4%B8%80%E6%A0%B9",
-   "hot": "5797685",
+   "title": "李标被遣返回国",
+   "url": "https://www.baidu.com/s?wd=%E6%9D%8E%E6%A0%87%E8%A2%AB%E9%81%A3%E8%BF%94%E5%9B%9E%E5%9B%BD",
+   "hot": "6564067",
    "source": "百度热搜"
   },
   {
-   "title": "英伟达价值7605万元芯片被劫",
-   "url": "https://www.baidu.com/s?wd=%E8%8B%B1%E4%BC%9F%E8%BE%BE%E4%BB%B7%E5%80%BC7605%E4%B8%87%E5%85%83%E8%8A%AF%E7%89%87%E8%A2%AB%E5%8A%AB",
-   "hot": "5700930",
+   "title": "金鸡奖开幕式",
+   "url": "https://www.baidu.com/s?wd=%E9%87%91%E9%B8%A1%E5%A5%96%E5%BC%80%E5%B9%95%E5%BC%8F",
+   "hot": "6473416",
    "source": "百度热搜"
   },
   {
-   "title": "曝乔欣有孩子了",
-   "url": "https://www.baidu.com/s?wd=%E6%9B%9D%E4%B9%94%E6%AC%A3%E6%9C%89%E5%AD%A9%E5%AD%90%E4%BA%86",
-   "hot": "5611788",
+   "title": "美媒曝韩女团NewJeans“卖身契”",
+   "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%AA%92%E6%9B%9D%E9%9F%A9%E5%A5%B3%E5%9B%A2NewJeans%E2%80%9C%E5%8D%96%E8%BA%AB%E5%A5%91%E2%80%9D",
+   "hot": "6380105",
    "source": "百度热搜"
   },
   {
-   "title": "北京市发布暴雪黄色预警",
-   "url": "https://www.baidu.com/s?wd=%E5%8C%97%E4%BA%AC%E5%B8%82%E5%8F%91%E5%B8%83%E6%9A%B4%E9%9B%AA%E9%BB%84%E8%89%B2%E9%A2%84%E8%AD%A6",
-   "hot": "5521565",
+   "title": "大学生精细AA：这菜我没吃 单独结账",
+   "url": "https://www.baidu.com/s?wd=%E5%A4%A7%E5%AD%A6%E7%94%9F%E7%B2%BE%E7%BB%86AA%EF%BC%9A%E8%BF%99%E8%8F%9C%E6%88%91%E6%B2%A1%E5%90%83%20%E5%8D%95%E7%8B%AC%E7%BB%93%E8%B4%A6",
+   "hot": "6284512",
    "source": "百度热搜"
   },
   {
-   "title": "黄河可能比公认的大100万岁",
-   "url": "https://www.baidu.com/s?wd=%E9%BB%84%E6%B2%B3%E5%8F%AF%E8%83%BD%E6%AF%94%E5%85%AC%E8%AE%A4%E7%9A%84%E5%A4%A7100%E4%B8%87%E5%B2%81",
-   "hot": "5410746",
+   "title": "攒了一抽屉外卖保温袋 能不能用",
+   "url": "https://www.baidu.com/s?wd=%E6%94%92%E4%BA%86%E4%B8%80%E6%8A%BD%E5%B1%89%E5%A4%96%E5%8D%96%E4%BF%9D%E6%B8%A9%E8%A2%8B%20%E8%83%BD%E4%B8%8D%E8%83%BD%E7%94%A8",
+   "hot": "6187064",
    "source": "百度热搜"
   },
   {
-   "title": "《谷雨》首播口碑爆了",
-   "url": "https://www.baidu.com/s?wd=%E3%80%8A%E8%B0%B7%E9%9B%A8%E3%80%8B%E9%A6%96%E6%92%AD%E5%8F%A3%E7%A2%91%E7%88%86%E4%BA%86",
-   "hot": "5328148",
+   "title": "王楚钦0比3不敌温瑞博 无缘8强",
+   "url": "https://www.baidu.com/s?wd=%E7%8E%8B%E6%A5%9A%E9%92%A60%E6%AF%943%E4%B8%8D%E6%95%8C%E6%B8%A9%E7%91%9E%E5%8D%9A%20%E6%97%A0%E7%BC%988%E5%BC%BA",
+   "hot": "6094853",
    "source": "百度热搜"
   },
   {
-   "title": "无薪跟岗 教师招聘不带这么羞辱人的",
-   "url": "https://www.baidu.com/s?wd=%E6%97%A0%E8%96%AA%E8%B7%9F%E5%B2%97%20%E6%95%99%E5%B8%88%E6%8B%9B%E8%81%98%E4%B8%8D%E5%B8%A6%E8%BF%99%E4%B9%88%E7%BE%9E%E8%BE%B1%E4%BA%BA%E7%9A%84",
-   "hot": "5235127",
+   "title": "S16淘汰赛：KC对决T1",
+   "url": "https://www.baidu.com/s?wd=S16%E6%B7%98%E6%B1%B0%E8%B5%9B%EF%BC%9AKC%E5%AF%B9%E5%86%B3T1",
+   "hot": "5997226",
    "source": "百度热搜"
   },
   {
-   "title": "13岁少年性侵女童被送专门学校矫治",
-   "url": "https://www.baidu.com/s?wd=13%E5%B2%81%E5%B0%91%E5%B9%B4%E6%80%A7%E4%BE%B5%E5%A5%B3%E7%AB%A5%E8%A2%AB%E9%80%81%E4%B8%93%E9%97%A8%E5%AD%A6%E6%A0%A1%E7%9F%AB%E6%B2%BB",
-   "hot": "5138854",
+   "title": "森林狼火箭爆发冲突",
+   "url": "https://www.baidu.com/s?wd=%E6%A3%AE%E6%9E%97%E7%8B%BC%E7%81%AB%E7%AE%AD%E7%88%86%E5%8F%91%E5%86%B2%E7%AA%81",
+   "hot": "5887725",
    "source": "百度热搜"
   },
   {
-   "title": "河北一地上空疑现“二向箔云”",
-   "url": "https://www.baidu.com/s?wd=%E6%B2%B3%E5%8C%97%E4%B8%80%E5%9C%B0%E4%B8%8A%E7%A9%BA%E7%96%91%E7%8E%B0%E2%80%9C%E4%BA%8C%E5%90%91%E7%AE%94%E4%BA%91%E2%80%9D",
-   "hot": "5051435",
+   "title": "酒店27层落地窗可外开且无护栏",
+   "url": "https://www.baidu.com/s?wd=%E9%85%92%E5%BA%9727%E5%B1%82%E8%90%BD%E5%9C%B0%E7%AA%97%E5%8F%AF%E5%A4%96%E5%BC%80%E4%B8%94%E6%97%A0%E6%8A%A4%E6%A0%8F",
+   "hot": "5811404",
    "source": "百度热搜"
   },
   {
-   "title": "北方多地将有暴雪",
-   "url": "https://so.toutiao.com/search?keyword=%E5%8C%97%E6%96%B9%E5%A4%9A%E5%9C%B0%E5%B0%86%E6%9C%89%E6%9A%B4%E9%9B%AA",
-   "hot": "10134071",
+   "title": "90后姑娘收集上万枚鸡蛋壳做白鹤裙",
+   "url": "https://www.baidu.com/s?wd=90%E5%90%8E%E5%A7%91%E5%A8%98%E6%94%B6%E9%9B%86%E4%B8%8A%E4%B8%87%E6%9E%9A%E9%B8%A1%E8%9B%8B%E5%A3%B3%E5%81%9A%E7%99%BD%E9%B9%A4%E8%A3%99",
+   "hot": "5708587",
+   "source": "百度热搜"
+  },
+  {
+   "title": "残疾人证怎么成了生意",
+   "url": "https://www.baidu.com/s?wd=%E6%AE%8B%E7%96%BE%E4%BA%BA%E8%AF%81%E6%80%8E%E4%B9%88%E6%88%90%E4%BA%86%E7%94%9F%E6%84%8F",
+   "hot": "5618333",
+   "source": "百度热搜"
+  },
+  {
+   "title": "苹果首款触控MacBook Pro开售即破发",
+   "url": "https://www.baidu.com/s?wd=%E8%8B%B9%E6%9E%9C%E9%A6%96%E6%AC%BE%E8%A7%A6%E6%8E%A7MacBook%20Pro%E5%BC%80%E5%94%AE%E5%8D%B3%E7%A0%B4%E5%8F%91",
+   "hot": "5503490",
+   "source": "百度热搜"
+  },
+  {
+   "title": "“缅北最严厉的父亲”来了",
+   "url": "https://www.baidu.com/s?wd=%E2%80%9C%E7%BC%85%E5%8C%97%E6%9C%80%E4%B8%A5%E5%8E%89%E7%9A%84%E7%88%B6%E4%BA%B2%E2%80%9D%E6%9D%A5%E4%BA%86",
+   "hot": "5409556",
+   "source": "百度热搜"
+  },
+  {
+   "title": "纳指经历暴跌后高开1.3%",
+   "url": "https://www.baidu.com/s?wd=%E7%BA%B3%E6%8C%87%E7%BB%8F%E5%8E%86%E6%9A%B4%E8%B7%8C%E5%90%8E%E9%AB%98%E5%BC%801.3%25",
+   "hot": "5333605",
+   "source": "百度热搜"
+  },
+  {
+   "title": "周迅回应获釜山电影节影后",
+   "url": "https://www.baidu.com/s?wd=%E5%91%A8%E8%BF%85%E5%9B%9E%E5%BA%94%E8%8E%B7%E9%87%9C%E5%B1%B1%E7%94%B5%E5%BD%B1%E8%8A%82%E5%BD%B1%E5%90%8E",
+   "hot": "5231772",
+   "source": "百度热搜"
+  },
+  {
+   "title": "国家卫健委党组：坚决拥护党中央决定",
+   "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E5%AE%B6%E5%8D%AB%E5%81%A5%E5%A7%94%E5%85%9A%E7%BB%84%EF%BC%9A%E5%9D%9A%E5%86%B3%E6%8B%A5%E6%8A%A4%E5%85%9A%E4%B8%AD%E5%A4%AE%E5%86%B3%E5%AE%9A",
+   "hot": "5122605",
+   "source": "百度热搜"
+  },
+  {
+   "title": "女中医看了墓碑上的药方说实用还不贵",
+   "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E4%B8%AD%E5%8C%BB%E7%9C%8B%E4%BA%86%E5%A2%93%E7%A2%91%E4%B8%8A%E7%9A%84%E8%8D%AF%E6%96%B9%E8%AF%B4%E5%AE%9E%E7%94%A8%E8%BF%98%E4%B8%8D%E8%B4%B5",
+   "hot": "5038741",
+   "source": "百度热搜"
+  },
+  {
+   "title": "女子带娃仅点6元豆芽连吃7碗米饭",
+   "url": "https://so.toutiao.com/search?keyword=%E5%A5%B3%E5%AD%90%E5%B8%A6%E5%A8%83%E4%BB%85%E7%82%B96%E5%85%83%E8%B1%86%E8%8A%BD%E8%BF%9E%E5%90%837%E7%A2%97%E7%B1%B3%E9%A5%AD",
+   "hot": "13237123",
    "source": "今日头条"
   },
   {
    "title": "上海原市长龚正等12名正部履新职",
    "url": "https://so.toutiao.com/search?keyword=%E4%B8%8A%E6%B5%B7%E5%8E%9F%E5%B8%82%E9%95%BF%E9%BE%9A%E6%AD%A3%E7%AD%8912%E5%90%8D%E6%AD%A3%E9%83%A8%E5%B1%A5%E6%96%B0%E8%81%8C",
-   "hot": "9169686",
+   "hot": "11977444",
    "source": "今日头条"
   },
   {
    "title": "一组数据感受中国经济强劲脉动",
    "url": "https://so.toutiao.com/search?keyword=%E4%B8%80%E7%BB%84%E6%95%B0%E6%8D%AE%E6%84%9F%E5%8F%97%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E5%BC%BA%E5%8A%B2%E8%84%89%E5%8A%A8",
-   "hot": "8297075",
+   "hot": "10837640",
    "source": "今日头条"
   },
   {
    "title": "存款利率拐点来了？有储户存500万",
    "url": "https://so.toutiao.com/search?keyword=%E5%AD%98%E6%AC%BE%E5%88%A9%E7%8E%87%E6%8B%90%E7%82%B9%E6%9D%A5%E4%BA%86%EF%BC%9F%E6%9C%89%E5%82%A8%E6%88%B7%E5%AD%98500%E4%B8%87",
-   "hot": "7507504",
+   "hot": "9806302",
    "source": "今日头条"
   },
   {
-   "title": "刻100个药方墓碑每天三四百人祭拜",
-   "url": "https://so.toutiao.com/search?keyword=%E5%88%BB100%E4%B8%AA%E8%8D%AF%E6%96%B9%E5%A2%93%E7%A2%91%E6%AF%8F%E5%A4%A9%E4%B8%89%E5%9B%9B%E7%99%BE%E4%BA%BA%E7%A5%AD%E6%8B%9C",
-   "hot": "6793071",
+   "title": "李乐成被免去工信部部长职务",
+   "url": "https://so.toutiao.com/search?keyword=%E6%9D%8E%E4%B9%90%E6%88%90%E8%A2%AB%E5%85%8D%E5%8E%BB%E5%B7%A5%E4%BF%A1%E9%83%A8%E9%83%A8%E9%95%BF%E8%81%8C%E5%8A%A1",
+   "hot": "8873109",
    "source": "今日头条"
   },
   {
-   "title": "美股暴跌 投资者在害怕什么",
-   "url": "https://so.toutiao.com/search?keyword=%E7%BE%8E%E8%82%A1%E6%9A%B4%E8%B7%8C%20%E6%8A%95%E8%B5%84%E8%80%85%E5%9C%A8%E5%AE%B3%E6%80%95%E4%BB%80%E4%B9%88",
-   "hot": "6146624",
-   "source": "今日头条"
-  },
-  {
-   "title": "冯远征卸任北京人艺院长",
-   "url": "https://so.toutiao.com/search?keyword=%E5%86%AF%E8%BF%9C%E5%BE%81%E5%8D%B8%E4%BB%BB%E5%8C%97%E4%BA%AC%E4%BA%BA%E8%89%BA%E9%99%A2%E9%95%BF",
-   "hot": "5561696",
-   "source": "今日头条"
-  },
-  {
-   "title": "高金素梅被台湾检方求刑14年",
-   "url": "https://so.toutiao.com/search?keyword=%E9%AB%98%E9%87%91%E7%B4%A0%E6%A2%85%E8%A2%AB%E5%8F%B0%E6%B9%BE%E6%A3%80%E6%96%B9%E6%B1%82%E5%88%9114%E5%B9%B4",
-   "hot": "5032430",
-   "source": "今日头条"
-  },
-  {
-   "title": "6架歼10飞越长城",
-   "url": "https://so.toutiao.com/search?keyword=6%E6%9E%B6%E6%AD%BC10%E9%A3%9E%E8%B6%8A%E9%95%BF%E5%9F%8E",
-   "hot": "4553531",
-   "source": "今日头条"
-  },
-  {
-   "title": "11元拍得鹤岗一套房是赚了吗",
-   "url": "https://so.toutiao.com/search?keyword=11%E5%85%83%E6%8B%8D%E5%BE%97%E9%B9%A4%E5%B2%97%E4%B8%80%E5%A5%97%E6%88%BF%E6%98%AF%E8%B5%9A%E4%BA%86%E5%90%97",
-   "hot": "4120205",
-   "source": "今日头条"
-  },
-  {
-   "title": "智慧教室会侵犯学生隐私系误读",
-   "url": "https://so.toutiao.com/search?keyword=%E6%99%BA%E6%85%A7%E6%95%99%E5%AE%A4%E4%BC%9A%E4%BE%B5%E7%8A%AF%E5%AD%A6%E7%94%9F%E9%9A%90%E7%A7%81%E7%B3%BB%E8%AF%AF%E8%AF%BB",
-   "hot": "3728116",
+   "title": "哈尔滨下“棉花雪”了",
+   "url": "https://so.toutiao.com/search?keyword=%E5%93%88%E5%B0%94%E6%BB%A8%E4%B8%8B%E2%80%9C%E6%A3%89%E8%8A%B1%E9%9B%AA%E2%80%9D%E4%BA%86",
+   "hot": "8028721",
    "source": "今日头条"
   },
   {
    "title": "男子心梗前给豆包打电话救了自己",
    "url": "https://so.toutiao.com/search?keyword=%E7%94%B7%E5%AD%90%E5%BF%83%E6%A2%97%E5%89%8D%E7%BB%99%E8%B1%86%E5%8C%85%E6%89%93%E7%94%B5%E8%AF%9D%E6%95%91%E4%BA%86%E8%87%AA%E5%B7%B1",
-   "hot": "3373339",
+   "hot": "7264687",
    "source": "今日头条"
   },
   {
-   "title": "普京签令接管日本在俄企业释放何信号",
-   "url": "https://so.toutiao.com/search?keyword=%E6%99%AE%E4%BA%AC%E7%AD%BE%E4%BB%A4%E6%8E%A5%E7%AE%A1%E6%97%A5%E6%9C%AC%E5%9C%A8%E4%BF%84%E4%BC%81%E4%B8%9A%E9%87%8A%E6%94%BE%E4%BD%95%E4%BF%A1%E5%8F%B7",
-   "hot": "3052323",
+   "title": "啤酒对血糖伤害有多大",
+   "url": "https://so.toutiao.com/search?keyword=%E5%95%A4%E9%85%92%E5%AF%B9%E8%A1%80%E7%B3%96%E4%BC%A4%E5%AE%B3%E6%9C%89%E5%A4%9A%E5%A4%A7",
+   "hot": "6573361",
+   "source": "今日头条"
+  },
+  {
+   "title": "中国气象局启动暴雪四级应急响应",
+   "url": "https://so.toutiao.com/search?keyword=%E4%B8%AD%E5%9B%BD%E6%B0%94%E8%B1%A1%E5%B1%80%E5%90%AF%E5%8A%A8%E6%9A%B4%E9%9B%AA%E5%9B%9B%E7%BA%A7%E5%BA%94%E6%80%A5%E5%93%8D%E5%BA%94",
+   "hot": "5947823",
+   "source": "今日头条"
+  },
+  {
+   "title": "实验猴涨至26万一只",
+   "url": "https://so.toutiao.com/search?keyword=%E5%AE%9E%E9%AA%8C%E7%8C%B4%E6%B6%A8%E8%87%B326%E4%B8%87%E4%B8%80%E5%8F%AA",
+   "hot": "5381812",
+   "source": "今日头条"
+  },
+  {
+   "title": "智慧教室会侵犯学生隐私系误读",
+   "url": "https://so.toutiao.com/search?keyword=%E6%99%BA%E6%85%A7%E6%95%99%E5%AE%A4%E4%BC%9A%E4%BE%B5%E7%8A%AF%E5%AD%A6%E7%94%9F%E9%9A%90%E7%A7%81%E7%B3%BB%E8%AF%AF%E8%AF%BB",
+   "hot": "4869665",
+   "source": "今日头条"
+  },
+  {
+   "title": "男护士猥亵14岁女孩获刑1年2个月",
+   "url": "https://so.toutiao.com/search?keyword=%E7%94%B7%E6%8A%A4%E5%A3%AB%E7%8C%A5%E4%BA%B514%E5%B2%81%E5%A5%B3%E5%AD%A9%E8%8E%B7%E5%88%911%E5%B9%B42%E4%B8%AA%E6%9C%88",
+   "hot": "4406255",
    "source": "今日头条"
   },
   {
    "title": "无薪跟岗 教师招聘不带这么羞辱人的",
    "url": "https://so.toutiao.com/search?keyword=%E6%97%A0%E8%96%AA%E8%B7%9F%E5%B2%97%20%E6%95%99%E5%B8%88%E6%8B%9B%E8%81%98%E4%B8%8D%E5%B8%A6%E8%BF%99%E4%B9%88%E7%BE%9E%E8%BE%B1%E4%BA%BA%E7%9A%84",
-   "hot": "2761856",
+   "hot": "3986945",
    "source": "今日头条"
   },
   {
-   "title": "下周油价将调整",
-   "url": "https://so.toutiao.com/search?keyword=%E4%B8%8B%E5%91%A8%E6%B2%B9%E4%BB%B7%E5%B0%86%E8%B0%83%E6%95%B4",
-   "hot": "2499031",
-   "source": "今日头条"
-  },
-  {
-   "title": "仰望U9X创造503.17km/h极速纪录",
-   "url": "https://so.toutiao.com/search?keyword=%E4%BB%B0%E6%9C%9BU9X%E5%88%9B%E9%80%A0503.17km/h%E6%9E%81%E9%80%9F%E7%BA%AA%E5%BD%95",
-   "hot": "2261216",
-   "source": "今日头条"
-  },
-  {
-   "title": "北京发布暴雪黄色预警",
-   "url": "https://so.toutiao.com/search?keyword=%E5%8C%97%E4%BA%AC%E5%8F%91%E5%B8%83%E6%9A%B4%E9%9B%AA%E9%BB%84%E8%89%B2%E9%A2%84%E8%AD%A6",
-   "hot": "2046033",
-   "source": "今日头条"
-  },
-  {
-   "title": "国常会：加快重大项目建设进度",
-   "url": "https://so.toutiao.com/search?keyword=%E5%9B%BD%E5%B8%B8%E4%BC%9A%EF%BC%9A%E5%8A%A0%E5%BF%AB%E9%87%8D%E5%A4%A7%E9%A1%B9%E7%9B%AE%E5%BB%BA%E8%AE%BE%E8%BF%9B%E5%BA%A6",
-   "hot": "1851327",
-   "source": "今日头条"
-  },
-  {
-   "title": "张雪说入职1年员工百分百涨工资",
-   "url": "https://so.toutiao.com/search?keyword=%E5%BC%A0%E9%9B%AA%E8%AF%B4%E5%85%A5%E8%81%8C1%E5%B9%B4%E5%91%98%E5%B7%A5%E7%99%BE%E5%88%86%E7%99%BE%E6%B6%A8%E5%B7%A5%E8%B5%84",
-   "hot": "1675150",
+   "title": "“女老虎”余艳红主动投案被查",
+   "url": "https://so.toutiao.com/search?keyword=%E2%80%9C%E5%A5%B3%E8%80%81%E8%99%8E%E2%80%9D%E4%BD%99%E8%89%B3%E7%BA%A2%E4%B8%BB%E5%8A%A8%E6%8A%95%E6%A1%88%E8%A2%AB%E6%9F%A5",
+   "hot": "3607537",
    "source": "今日头条"
   },
   {
    "title": "东风-61导弹列装火箭军传递什么信号",
    "url": "https://so.toutiao.com/search?keyword=%E4%B8%9C%E9%A3%8E-61%E5%AF%BC%E5%BC%B9%E5%88%97%E8%A3%85%E7%81%AB%E7%AE%AD%E5%86%9B%E4%BC%A0%E9%80%92%E4%BB%80%E4%B9%88%E4%BF%A1%E5%8F%B7",
-   "hot": "1515739",
+   "hot": "3264234",
+   "source": "今日头条"
+  },
+  {
+   "title": "中国纯电车如何跨过500km/h这道坎",
+   "url": "https://so.toutiao.com/search?keyword=%E4%B8%AD%E5%9B%BD%E7%BA%AF%E7%94%B5%E8%BD%A6%E5%A6%82%E4%BD%95%E8%B7%A8%E8%BF%87500km/h%E8%BF%99%E9%81%93%E5%9D%8E",
+   "hot": "2953601",
+   "source": "今日头条"
+  },
+  {
+   "title": "张雪说入职1年员工百分百涨工资",
+   "url": "https://so.toutiao.com/search?keyword=%E5%BC%A0%E9%9B%AA%E8%AF%B4%E5%85%A5%E8%81%8C1%E5%B9%B4%E5%91%98%E5%B7%A5%E7%99%BE%E5%88%86%E7%99%BE%E6%B6%A8%E5%B7%A5%E8%B5%84",
+   "hot": "2672529",
+   "source": "今日头条"
+  },
+  {
+   "title": "普京签令接管日本在俄企业释放何信号",
+   "url": "https://so.toutiao.com/search?keyword=%E6%99%AE%E4%BA%AC%E7%AD%BE%E4%BB%A4%E6%8E%A5%E7%AE%A1%E6%97%A5%E6%9C%AC%E5%9C%A8%E4%BF%84%E4%BC%81%E4%B8%9A%E9%87%8A%E6%94%BE%E4%BD%95%E4%BF%A1%E5%8F%B7",
+   "hot": "2418204",
+   "source": "今日头条"
+  },
+  {
+   "title": "11元拍得鹤岗一套房是赚了吗",
+   "url": "https://so.toutiao.com/search?keyword=11%E5%85%83%E6%8B%8D%E5%BE%97%E9%B9%A4%E5%B2%97%E4%B8%80%E5%A5%97%E6%88%BF%E6%98%AF%E8%B5%9A%E4%BA%86%E5%90%97",
+   "hot": "2188081",
+   "source": "今日头条"
+  },
+  {
+   "title": "赵丽颖王仁君金鸡奖开幕式拥抱",
+   "url": "https://so.toutiao.com/search?keyword=%E8%B5%B5%E4%B8%BD%E9%A2%96%E7%8E%8B%E4%BB%81%E5%90%9B%E9%87%91%E9%B8%A1%E5%A5%96%E5%BC%80%E5%B9%95%E5%BC%8F%E6%8B%A5%E6%8A%B1",
+   "hot": "1979858",
    "source": "今日头条"
   },
   {
    "title": "特朗普签发公告：禁止擅改总统办公室",
    "url": "https://so.toutiao.com/search?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E7%AD%BE%E5%8F%91%E5%85%AC%E5%91%8A%EF%BC%9A%E7%A6%81%E6%AD%A2%E6%93%85%E6%94%B9%E6%80%BB%E7%BB%9F%E5%8A%9E%E5%85%AC%E5%AE%A4",
-   "hot": "1371497",
+   "hot": "1791449",
    "source": "今日头条"
   },
   {
    "title": "乔欣被曝在美国生了孩子",
    "url": "https://so.toutiao.com/search?keyword=%E4%B9%94%E6%AC%A3%E8%A2%AB%E6%9B%9D%E5%9C%A8%E7%BE%8E%E5%9B%BD%E7%94%9F%E4%BA%86%E5%AD%A9%E5%AD%90",
-   "hot": "1240982",
+   "hot": "1620970",
    "source": "今日头条"
   },
   {
-   "title": "A股缩量4600多亿 下周能反弹吗",
-   "url": "https://so.toutiao.com/search?keyword=A%E8%82%A1%E7%BC%A9%E9%87%8F4600%E5%A4%9A%E4%BA%BF%20%E4%B8%8B%E5%91%A8%E8%83%BD%E5%8F%8D%E5%BC%B9%E5%90%97",
-   "hot": "1122887",
+   "title": "专家：美伊或走向不战不和的僵持",
+   "url": "https://so.toutiao.com/search?keyword=%E4%B8%93%E5%AE%B6%EF%BC%9A%E7%BE%8E%E4%BC%8A%E6%88%96%E8%B5%B0%E5%90%91%E4%B8%8D%E6%88%98%E4%B8%8D%E5%92%8C%E7%9A%84%E5%83%B5%E6%8C%81",
+   "hot": "1466715",
    "source": "今日头条"
   },
   {
-   "title": "邵永灵：日企已扛不住稀土荒",
-   "url": "https://so.toutiao.com/search?keyword=%E9%82%B5%E6%B0%B8%E7%81%B5%EF%BC%9A%E6%97%A5%E4%BC%81%E5%B7%B2%E6%89%9B%E4%B8%8D%E4%BD%8F%E7%A8%80%E5%9C%9F%E8%8D%92",
-   "hot": "1016030",
+   "title": "中国造出人类已知最冷物质有什么用",
+   "url": "https://so.toutiao.com/search?keyword=%E4%B8%AD%E5%9B%BD%E9%80%A0%E5%87%BA%E4%BA%BA%E7%B1%BB%E5%B7%B2%E7%9F%A5%E6%9C%80%E5%86%B7%E7%89%A9%E8%B4%A8%E6%9C%89%E4%BB%80%E4%B9%88%E7%94%A8",
+   "hot": "1327138",
    "source": "今日头条"
   },
   {
-   "title": "河南又要下雪了",
-   "url": "https://so.toutiao.com/search?keyword=%E6%B2%B3%E5%8D%97%E5%8F%88%E8%A6%81%E4%B8%8B%E9%9B%AA%E4%BA%86",
-   "hot": "919342",
+   "title": "女中医说墓碑上的药方实用还不贵",
+   "url": "https://so.toutiao.com/search?keyword=%E5%A5%B3%E4%B8%AD%E5%8C%BB%E8%AF%B4%E5%A2%93%E7%A2%91%E4%B8%8A%E7%9A%84%E8%8D%AF%E6%96%B9%E5%AE%9E%E7%94%A8%E8%BF%98%E4%B8%8D%E8%B4%B5",
+   "hot": "1200844",
    "source": "今日头条"
   },
   {
-   "title": "北京中小学将全部取消外送餐",
-   "url": "https://so.toutiao.com/search?keyword=%E5%8C%97%E4%BA%AC%E4%B8%AD%E5%B0%8F%E5%AD%A6%E5%B0%86%E5%85%A8%E9%83%A8%E5%8F%96%E6%B6%88%E5%A4%96%E9%80%81%E9%A4%90",
-   "hot": "831855",
+   "title": "国防部：须高度警惕日本重启战争机器",
+   "url": "https://so.toutiao.com/search?keyword=%E5%9B%BD%E9%98%B2%E9%83%A8%EF%BC%9A%E9%A1%BB%E9%AB%98%E5%BA%A6%E8%AD%A6%E6%83%95%E6%97%A5%E6%9C%AC%E9%87%8D%E5%90%AF%E6%88%98%E4%BA%89%E6%9C%BA%E5%99%A8",
+   "hot": "1086569",
    "source": "今日头条"
   },
   {
-   "title": "陕西商南命案嫌犯孙某自杀身亡",
-   "url": "https://so.toutiao.com/search?keyword=%E9%99%95%E8%A5%BF%E5%95%86%E5%8D%97%E5%91%BD%E6%A1%88%E5%AB%8C%E7%8A%AF%E5%AD%99%E6%9F%90%E8%87%AA%E6%9D%80%E8%BA%AB%E4%BA%A1",
-   "hot": "752693",
+   "title": "媒体：内塔尼亚胡总理宝座悬了",
+   "url": "https://so.toutiao.com/search?keyword=%E5%AA%92%E4%BD%93%EF%BC%9A%E5%86%85%E5%A1%94%E5%B0%BC%E4%BA%9A%E8%83%A1%E6%80%BB%E7%90%86%E5%AE%9D%E5%BA%A7%E6%82%AC%E4%BA%86",
+   "hot": "983168",
    "source": "今日头条"
   },
   {
-   "title": "邵永灵：内塔尼亚胡总理宝座岌岌可危",
-   "url": "https://so.toutiao.com/search?keyword=%E9%82%B5%E6%B0%B8%E7%81%B5%EF%BC%9A%E5%86%85%E5%A1%94%E5%B0%BC%E4%BA%9A%E8%83%A1%E6%80%BB%E7%90%86%E5%AE%9D%E5%BA%A7%E5%B2%8C%E5%B2%8C%E5%8F%AF%E5%8D%B1",
-   "hot": "681065",
+   "title": "刻100个药方墓碑每天三四百人祭拜",
+   "url": "https://so.toutiao.com/search?keyword=%E5%88%BB100%E4%B8%AA%E8%8D%AF%E6%96%B9%E5%A2%93%E7%A2%91%E6%AF%8F%E5%A4%A9%E4%B8%89%E5%9B%9B%E7%99%BE%E4%BA%BA%E7%A5%AD%E6%8B%9C",
+   "hot": "889607",
    "source": "今日头条"
   },
   {
-   "title": "全国人大常委会举行宪法宣誓仪式",
-   "url": "https://so.toutiao.com/search?keyword=%E5%85%A8%E5%9B%BD%E4%BA%BA%E5%A4%A7%E5%B8%B8%E5%A7%94%E4%BC%9A%E4%B8%BE%E8%A1%8C%E5%AE%AA%E6%B3%95%E5%AE%A3%E8%AA%93%E4%BB%AA%E5%BC%8F",
-   "hot": "616253",
+   "title": "曝钟汉良隐婚",
+   "url": "https://so.toutiao.com/search?keyword=%E6%9B%9D%E9%92%9F%E6%B1%89%E8%89%AF%E9%9A%90%E5%A9%9A",
+   "hot": "804950",
    "source": "今日头条"
   },
   {
-   "title": "日本经济又要被绑上战车了吗",
-   "url": "https://so.toutiao.com/search?keyword=%E6%97%A5%E6%9C%AC%E7%BB%8F%E6%B5%8E%E5%8F%88%E8%A6%81%E8%A2%AB%E7%BB%91%E4%B8%8A%E6%88%98%E8%BD%A6%E4%BA%86%E5%90%97",
-   "hot": "557609",
+   "title": "拳王泰森改行说脱口秀了",
+   "url": "https://so.toutiao.com/search?keyword=%E6%8B%B3%E7%8E%8B%E6%B3%B0%E6%A3%AE%E6%94%B9%E8%A1%8C%E8%AF%B4%E8%84%B1%E5%8F%A3%E7%A7%80%E4%BA%86",
+   "hot": "728349",
    "source": "今日头条"
   }
  ],
@@ -866,13 +867,13 @@
   {
    "title": "Qwen/Qwen3.8-27B",
    "url": "https://huggingface.co/Qwen/Qwen3.8-27B",
-   "meta": "❤ 19240",
+   "meta": "❤ 19262",
    "source": "HuggingFace"
   },
   {
    "title": "black-forest-labs/FLUX.1-dev",
    "url": "https://huggingface.co/black-forest-labs/FLUX.1-dev",
-   "meta": "❤ 15983",
+   "meta": "❤ 15987",
    "source": "HuggingFace"
   },
   {
@@ -884,31 +885,31 @@
   {
    "title": "moonshotai/Kimi-K3",
    "url": "https://huggingface.co/moonshotai/Kimi-K3",
-   "meta": "❤ 11938",
+   "meta": "❤ 11939",
    "source": "HuggingFace"
   },
   {
    "title": "Lightricks/LTX-2.5",
    "url": "https://huggingface.co/Lightricks/LTX-2.5",
-   "meta": "❤ 10793",
+   "meta": "❤ 10842",
    "source": "HuggingFace"
   },
   {
    "title": "meta-llama/Llama-3.1-8B-Instruct",
    "url": "https://huggingface.co/meta-llama/Llama-3.1-8B-Instruct",
-   "meta": "❤ 8815",
+   "meta": "❤ 8820",
    "source": "HuggingFace"
   },
   {
    "title": "stabilityai/stable-diffusion-xl-base-1.0",
    "url": "https://huggingface.co/stabilityai/stable-diffusion-xl-base-1.0",
-   "meta": "❤ 8441",
+   "meta": "❤ 8442",
    "source": "HuggingFace"
   },
   {
    "title": "hexgrad/Kokoro-82M",
    "url": "https://huggingface.co/hexgrad/Kokoro-82M",
-   "meta": "❤ 7356",
+   "meta": "❤ 7364",
    "source": "HuggingFace"
   },
   {
@@ -920,7 +921,7 @@
   {
    "title": "Qwen/Qwen3.8-Flash-Next",
    "url": "https://huggingface.co/Qwen/Qwen3.8-Flash-Next",
-   "meta": "❤ 6814",
+   "meta": "❤ 6819",
    "source": "HuggingFace"
   },
   {
@@ -932,25 +933,25 @@
   {
    "title": "openai/whisper-large-v3",
    "url": "https://huggingface.co/openai/whisper-large-v3",
-   "meta": "❤ 6764",
+   "meta": "❤ 6766",
    "source": "HuggingFace"
   },
   {
    "title": "MiniMaxAI/MiniMax-H3",
    "url": "https://huggingface.co/MiniMaxAI/MiniMax-H3",
-   "meta": "❤ 6624",
+   "meta": "❤ 6630",
    "source": "HuggingFace"
   },
   {
    "title": "black-forest-labs/FLUX.1-schnell",
    "url": "https://huggingface.co/black-forest-labs/FLUX.1-schnell",
-   "meta": "❤ 6622",
+   "meta": "❤ 6624",
    "source": "HuggingFace"
   },
   {
    "title": "sentence-transformers/all-MiniLM-L6-v2",
    "url": "https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2",
-   "meta": "❤ 6072",
+   "meta": "❤ 6073",
    "source": "HuggingFace"
   },
   {
@@ -965,7 +966,7 @@
    "title": "qwdwqfwq/topconf-paper-figure-gallery",
    "url": "https://github.com/qwdwqfwq/topconf-paper-figure-gallery",
    "desc": "精选自ICLR、ICML、NeurIPS、CVPR、ACL、AAAI（2023-2026年）的3,516张图1/预览图，附带分级徽章，并采用FigureForge检索增强型图稿绘制技术",
-   "meta": "⭐ 1455 · JavaScript",
+   "meta": "⭐ 1462 · JavaScript",
    "source": "GitHub",
    "desc_en": "3,516 curated Figure 1 / teasers from ICLR, ICML, NeurIPS, CVPR, ACL, AAAI (2023-2026), with tier badges and FigureForge retrieval-augmented figure drafting"
   },
@@ -1005,7 +1006,7 @@
    "title": "Adkid-Zephyr/oral-paper-skill",
    "url": "https://github.com/Adkid-Zephyr/oral-paper-skill",
    "desc": "向顶会优秀论文学科研｜Oral Paper Skill — 从 883 篇 Oral 论文摘要中“蒸馏”共通做法，用于论文对照改进与学习复盘 · Skill + prompt pack (CN/EN). Learn from 883 Oral paper abstracts to improve your research and writing.",
-   "meta": "⭐ 552 · Python",
+   "meta": "⭐ 553 · Python",
    "source": "GitHub"
   },
   {
