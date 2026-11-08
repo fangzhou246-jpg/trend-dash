@@ -2368,5 +2368,20 @@
  "Amsterdam School": "阿姆斯特丹学派",
  "Commodore PET – The Worlds First Personal Computer": "Commodore PET——世界上第一台个人电脑",
  "Turning every radio into a radar": "将每台收音机变成雷达",
- "ISponsorBlockTV: SponsorBlock client for all YouTube TV clients": "ISponsorBlockTV：适用于所有 YouTube TV 客户端的 SponsorBlock 客户端"
+ "ISponsorBlockTV: SponsorBlock client for all YouTube TV clients": "ISponsorBlockTV：适用于所有 YouTube TV 客户端的 SponsorBlock 客户端",
+ "Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM and agent workflows.": "Auto Ontology 是一个基于 Python 的框架，用于在数据之上构建语义化、基于图的推理层。它能够为大型语言模型（LLM）和智能体工作流实现确定性查询生成、更优的上下文检索，以及更具可解释性的 AI。",
+ "Agent skill that removes signs of AI-generated writing from text": "一种能够从文本中消除AI生成痕迹的代理技能",
+ "Person of Interest": "《疑犯追踪》",
+ "Petered (what happens after the Peter Principle)": "“彼得化”（彼得原理之后会发生什么）",
+ "Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU": "Llama-modchip：搭载 284B DeepSeek 芯片，配备 64GB 内存，无 GPU",
+ "JIT bitmap text rendering for microcontrollers": "面向微控制器的JIT位图文本渲染",
+ "Porting Android 16 to my blind mother's keypad phone": "将 Android 16 移植到我失明母亲的按键手机上",
+ "Clj.rs – a Clojure dialect implemented in Rust": "Clj.rs——一种用Rust实现的Clojure方言",
+ "Finding Xanadu: Inside a JRPG classic translation 15 years in the making": "寻找香巴拉：揭秘一部耗时15年完成的经典日式角色扮演游戏（JRPG）翻译内幕",
+ "Agent memory needs its OpenTelemetry moment": "代理内存也需要迎来属于它的“OpenTelemetry时刻”",
+ "New typeface using intricate designs from Shakespeare's First Folio (2023)": "一款采用莎士比亚《第一对开本》中精妙图案的新字体（2023）",
+ "WaveDudeNext 2D Wave Simulator": "WaveDudeNext 2D 波浪模拟器",
+ "Earliest evidence of cannabis use found in ancient Siberian tomb": "在西伯利亚古墓中发现了大麻使用的最早证据",
+ "Quadrillion-parameter transformers and how to train them": "千兆亿参数的Transformer及其训练方法",
+ "Mizu – zero-copy parallel R and Python over shared memory": "Mizu——基于共享内存的零拷贝并行 R 和 Python 环境"
 }
