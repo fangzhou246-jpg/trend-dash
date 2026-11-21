@@ -1,15 +1,4 @@
 {
- "Living in the Weimar Era of Ruby": "生活在Ruby的魏玛时代",
- "Deep dive into Azure Maia 300 architecture": "深入解析 Azure Maia 300 架构",
- "French supermarkets suffer fridge shutdown after 'unprecedented' cyberattack": "法国超市因遭遇“史无前例”的网络攻击导致冷藏设备停机",
- "I Found a $90k Remote Code Execution Vulnerability in Google": "我在谷歌中发现了一个价值9万美元的远程代码执行漏洞",
- "AI less regulated than milk, Microsoft president says in warning over safety": "微软总裁警告称人工智能监管力度不如牛奶行业，并就安全问题发出警示",
- "GLM-Legal: Advancing Agentic Legal Intelligence": "GLM-Legal：推动代理式法律智能的发展",
- "A Modern Web App in C": "用 C 语言编写的现代 Web 应用",
- "Turn a WiFi 7 Router into a 320Msps Software Defined Radio Receiver": "将一款 WiFi 7 路由器改造成 320Msps 软件定义无线电接收器",
- "Fridges in French supermarkets hit by cyber attack": "法国超市的冰箱遭遇网络攻击",
- "Muse Wonder": "缪斯奇观",
- "Hackers heat French supermarket fridges, sparking fires and food losses": "黑客将法国一家超市的冷藏柜温度调高，引发火灾并造成食品损失",
  "AI coding agents generate more code, but not more software": "AI编程代理生成的代码更多，但生成的软件并不更多",
  "Launch HN: Agent37 (YC F26) – Low-cost agent sandboxes for running agents": "Launch HN：Agent37（YC F26）——用于运行智能体的低成本智能体沙箱",
  "Kevin Kelly's 2016 AI Predictions, 10 Years Later": "凯文·凯利2016年对人工智能的预测，10年后回顾",
@@ -2998,5 +2987,16 @@
  "Reverse Engineering my cat's litter box": "对我的猫的猫砂盆进行逆向工程",
  "Google Workers Tell Their Employer Not to Punish Schools That Don't Want AI": "谷歌员工呼吁公司不要惩罚不愿采用人工智能的学校",
  "The Hungry Butler Effect: Concealed Commercial Incentives in LLMs": "“饥饿管家效应”：大语言模型中隐藏的商业激励",
- "Running two PSP emulators on one Switch 2 and sharing one via GameShare": "在一台Switch 2上运行两个PSP模拟器，并通过GameShare共享其中一个"
+ "Running two PSP emulators on one Switch 2 and sharing one via GameShare": "在一台Switch 2上运行两个PSP模拟器，并通过GameShare共享其中一个",
+ "Valkey kills the skiplist, cuts sorted set overhead by up to 43%": "Valkey 消除了跳表，将排序集的开销降低了多达 43%",
+ "Sir Brian May adds new dimension to Hera asteroid": "布莱恩·梅爵士为赫拉小行星增添了新的维度",
+ "And yet, it moves": "然而，它却在移动",
+ "Clojure will affect the way you think about programming (2017)": "Clojure 将改变你对编程的思考方式（2017）",
+ "Restricting AI agents in mobile operating systems platforms from capturing data": "限制移动操作系统平台中的AI代理采集数据",
+ "Re: Riemann": "回复：黎曼",
+ "Serious cyberattack thought backed by wealthy operators": "据信由财力雄厚的幕后操纵者支持的严重网络攻击",
+ "How to Bypass Rust's Orphan Rule": "如何绕过 Rust 的“孤儿规则”",
+ "I can’t believe it’s 1!": "真不敢相信已经是1了！",
+ "Integrals of Polynomials with Galois Group S_p": "具有伽罗瓦群 S_p 的多项式的积分",
+ "US SEC's Nvidia probe is examining potential accounting issues – sources": "消息人士称，美国证交会对英伟达的调查正在审查潜在的会计问题"
 }
