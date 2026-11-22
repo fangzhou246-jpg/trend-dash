@@ -1,14 +1,4 @@
 {
- "Who is vfmaddrnd231pd?": "vfmaddrnd231pd 是谁？",
- "Neuroscience can make decluttering easier": "神经科学能让整理收纳变得更轻松",
- "Leaving Tech": "离开科技界",
- "China Overtakes U.S. For First Time as Top Spender on R&D in 2024": "2024年，中国首次超越美国，成为研发投入最多的国家",
- "Strengthening our defenses against distillation attacks": "加强防御措施，抵御蒸馏攻击",
- "AI Models Can Provably Hide Arbitrary Capabilities": "AI 模型能够以可证明的方式隐藏任意能力",
- "A look at OpenAI’s math that’s claimed computes faster Fourier transforms": "深入解析OpenAI声称能更快计算傅里叶变换的数学原理",
- "The Dock on Mac, from OS 10 to macOS 27": "Mac 上的 Dock，从 OS 10 到 macOS 27",
- "Show HN: SolidCraft – Open-Source Parametric CAD in Rust (With MCP Support)": "Show HN：SolidCraft——基于Rust语言的开源参数化CAD（支持MCP）",
- "Vi Hart's Big Navier-Stokes Post": "维·哈特关于纳维-斯托克斯方程的长文",
  "Threat of AI share crash puts world financial stability at risk, says IMF": "国际货币基金组织表示，人工智能股票暴跌的威胁正危及全球金融稳定",
  "Denmark set to allow return of 'physical force' in school": "丹麦拟允许在学校重新使用“武力”",
  "A look at the math that OpenAI claims computes faster Fourier transforms": "深入解析 OpenAI 声称能加速傅里叶变换的数学原理",
@@ -2998,5 +2988,15 @@
  "Show HN: Zero C# – C# without a runtime or GC": "Show HN：Zero C#——没有运行时和垃圾回收器的 C#",
  "Bolt's Scooters Are Becoming Accessibility Sensors": "Bolt的电动滑板车正成为无障碍传感器",
  "Pandex – Official European Law for AI Agents, over MCP": "Pandex——关于人工智能代理人的欧洲官方法律，基于MCP",
- "Context-Generic Programming v0.8.0 – Pluggable trait implementations for Rust": "Context-Generic Programming v0.8.0 – Rust 的可插拔特质实现"
+ "Context-Generic Programming v0.8.0 – Pluggable trait implementations for Rust": "Context-Generic Programming v0.8.0 – Rust 的可插拔特质实现",
+ "Sandwich Simulator": "三明治模拟器",
+ "Leonida – PC Recompilation of the Xbox Version of GTA 6": "Leonida——《GTA 6》Xbox 版的 PC 重制版",
+ "Data Processing Incidents on Inference Providers": "推理提供商上的数据处理事件",
+ "The Mythology of Conscious AI": "“有意识的人工智能”的神话",
+ "The Most Popular Car Colors in America": "美国最受欢迎的汽车颜色",
+ "Shaping the Loops, Closing the Loops": "塑造循环，闭合循环",
+ "Together.ai: Prompt Leakage for Requests": "Together.ai：请求中的提示词泄露",
+ "Since last year, we asked: \"What if AI solved the Riemann Hypothesis?\"": "从去年开始，我们就一直在思考：“如果人工智能解决了黎曼猜想，会怎样？”",
+ "Unit-testing in the Ü programming language": "Ü编程语言中的单元测试",
+ "Split Radiance Cascades": "分流光辉瀑布"
 }
