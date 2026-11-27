@@ -1,15 +1,4 @@
 {
- "Official, Anthropic-managed directory of high quality Claude Code Plugins.": "由 Anthropic 管理的、收录优质 Claude 代码插件的官方目录。",
- "Yet another way to invoke functions without parentheses": "另一种无需圆括号调用函数的方法",
- "Meta’s new commercial terms will allow the scraping of news sites: experts": "专家称，Meta的新商业条款将允许抓取新闻网站的内容",
- "The Economic Complexity of the Western Roman Empire": "西罗马帝国的经济复杂性",
- "Two-Stack Sliding-Window Aggregation": "双栈滑动窗口聚合",
- "The Folders Programming Language": "文件夹编程语言",
- "New 'Super Ice' 10 Times Stronger, Bringing It Close to the Strength of Concrete": "新型“超级冰”强度提高10倍，已接近混凝土的强度",
- "New York City's iconic horse-drawn carriages expected to take their last trot": "纽约市标志性的马车预计将迎来最后一次慢行",
- "America's Wumao: Inside Polymarket's Paid Quote-Retweet Esports Program": "美国的“五毛党”：揭秘Polymarket的电竞付费引用转发计划",
- "Apple ML Research: Muse Spark Open with MLX on Mac Studio": "苹果机器学习研究：在 Mac Studio 上通过 MLX 运行 Muse Spark Open",
- "Big Fish: Exploiting a 37-Year-Old Kernel Bug in OpenBSD": "《大鱼》：利用OpenBSD中一个存在了37年的内核漏洞",
  "What on Earth Is Dekton?": "Dekton到底是什么？",
  "JPEG XL vs. AVIF for web use-cases": "JPEG XL 与 AVIF 在网页应用场景中的对比",
  "/dev/null: social network for developers": "/dev/null：面向开发者的社交网络",
@@ -2998,5 +2987,16 @@
  "Moat: OpenRouter replacement": "Moat：OpenRouter 的替代方案",
  "IBM gives H-1B, green card holders 3 weeks to relocate from US or leave company": "IBM 要求 H-1B 签证和绿卡持有者在 3 周内搬离美国或离职",
  "Show HN: Fuck_data_brokers.py": "显示 HN：Fuck_data_brokers.py",
- "A source-backed Jev / System One knowledge map: projects, papers, evaluations, robotics, and social discovery.": "一份基于来源的 Jev / System One 知识图谱：项目、论文、评估、机器人技术和社会发现。"
+ "A source-backed Jev / System One knowledge map: projects, papers, evaluations, robotics, and social discovery.": "一份基于来源的 Jev / System One 知识图谱：项目、论文、评估、机器人技术和社会发现。",
+ "Hard Drive pricing has gotten bad": "硬盘价格变得很糟糕了",
+ "CTO of 'RansomwareHelp' indicted for wire fraud": "“RansomwareHelp”首席技术官因电汇诈骗被起诉",
+ "Company Culture = Slack Emoji ÷ √Headcount": "企业文化 = Slack 表情符号 ÷ √员工人数",
+ "Novita, StreamLake, etc. are ByteDance Ark wrappers": "Novita、StreamLake 等是字节跳动 Ark 的封装库",
+ "An introduction to uncertainty in machine learning": "机器学习中的不确定性导论",
+ "Rvoip: VoIP stack in Rust": "Rvoip：用Rust编写的VoIP协议栈",
+ "Show HN: I wrote an entire Vim manual over 4 years": "Show HN：我花了4年多时间写了一本完整的Vim手册",
+ "The USAID Files": "《美国国际开发署档案》",
+ "Google will show solo Android developers' phone numbers and addresses": "谷歌将显示独立安卓开发者的电话号码和地址",
+ "AI agents now control part of DeepMind's compute for Gemini experiments": "目前，AI代理已接管DeepMind用于Gemini实验的部分计算资源",
+ "Openbb Calvona Market Research delivers structured market data analysis and research workflows.": "Openbb Calvona 市场研究提供结构化的市场数据分析和研究工作流程。"
 }
